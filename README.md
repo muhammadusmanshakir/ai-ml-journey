@@ -2,7 +2,7 @@
 
 Hi! I'm **Muhammad Usman Shakir**.
 
-Welcome to my AI & Machine Learning learning journey! This repository documents my daily progress as I work toward becoming an AI/ML Engineer by learning Python, building projects, and practicing Git & GitHub.
+Welcome to my **AI & Machine Learning learning journey!** This repository documents my daily progress as I work toward becoming an **AI/ML Engineer** by learning Python, building projects, and practicing Git & GitHub.
 
 ---
 
@@ -44,11 +44,21 @@ Welcome to my AI & Machine Learning learning journey! This repository documents 
 - Looping Through Lists
 - Student Manager Mini Project
 
+### ✅ Day 5 - Tuples, Sets & Dictionaries
+- Tuples
+- Tuple Methods (`count()`, `index()`)
+- Sets
+- Set Methods (`add()`, `remove()`)
+- Dictionaries
+- Accessing Dictionary Values
+- Iterating with `.items()`
+- Student Record Manager Mini Project
+
 ---
 
 ## 🎯 Goal
 
-To become an AI/ML Engineer by learning consistently, building real-world projects, and mastering Machine Learning concepts.
+To become an **AI/ML Engineer** by learning consistently, building real-world projects, and mastering Machine Learning concepts.
 
 ---
 
@@ -61,18 +71,41 @@ To become an AI/ML Engineer by learning consistently, building real-world projec
 
 ---
 
-## 📌 Repository Structure
+## 📂 Repository Structure
 
-```
+```text
 ai-ml-journey/
 │
 ├── Day-01/
 ├── Day-02/
 ├── Day-03/
 ├── Day-04/
+├── Day-05/
 └── README.md
 ```
 
 ---
 
-⭐ If you're following my journey, feel free to explore the code and watch my progress as I learn AI & Machine Learning one day at a time.
+## 🌟 Future Learning Roadmap
+
+- Python Advanced
+- Object-Oriented Programming (OOP)
+- File Handling
+- Exception Handling
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative AI & LLMs
+- AI Projects & Deployment
+
+---
+
+⭐ **If you're following my journey, feel free to explore the code and watch my progress as I learn AI & Machine Learning one day at a time.**
+
+If you find this repository helpful, consider giving it a **⭐ Star**!
