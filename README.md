@@ -54,6 +54,14 @@ Welcome to my **AI & Machine Learning learning journey!** This repository docume
 - Iterating with `.items()`
 - Student Record Manager Mini Project
 
+### ✅ Day 6 - Strings
+- String Introduction
+- String Indexing
+- String Slicing
+- String Methods (`upper()`, `lower()`, `replace()`, `strip()`, `split()`)
+- Word Counter Mini Project
+- Palindrome Checker Mini Project
+
 ---
 
 ## 🎯 Goal
@@ -81,6 +89,7 @@ ai-ml-journey/
 ├── Day-03/
 ├── Day-04/
 ├── Day-05/
+├── Day-06/
 └── README.md
 ```
 
@@ -88,24 +97,41 @@ ai-ml-journey/
 
 ## 🌟 Future Learning Roadmap
 
+### Python Fundamentals
 - Python Advanced
 - Object-Oriented Programming (OOP)
 - File Handling
 - Exception Handling
+
+### Data Science
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
+
+### Machine Learning
 - Scikit-learn
-- Machine Learning
-- Deep Learning
+- Supervised Learning
+- Unsupervised Learning
+- Model Evaluation
+- Feature Engineering
+
+### Deep Learning
+- Neural Networks
+- TensorFlow
+- PyTorch
+
+### Artificial Intelligence
 - Natural Language Processing (NLP)
 - Computer Vision
 - Generative AI & LLMs
+- AI Agents
 - AI Projects & Deployment
 
 ---
 
-⭐ **If you're following my journey, feel free to explore the code and watch my progress as I learn AI & Machine Learning one day at a time.**
+## ⭐ Connect With Me
 
-If you find this repository helpful, consider giving it a **⭐ Star**!
+If you're following my journey, feel free to explore the code and watch my progress as I learn AI & Machine Learning one day at a time.
+
+If you find this repository helpful, consider giving it a ⭐ **Star**!
