@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **7 Days Completed**
-- 📂 **7 Learning Modules**
-- 💻 **35+ Python Programs**
-- 🚀 **7 Mini Projects**
+- ✅ **8 Days Completed**
+- 📂 **8 Learning Modules**
+- 💻 **40+ Python Programs**
+- 🚀 **8 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -20,6 +20,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 # 📅 Daily Progress
 
 ## ✅ Day 1 - Python Basics
+
 - Variables
 - Data Types
 - Input/Output
@@ -31,6 +32,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 ---
 
 ## ✅ Day 2 - Loops
+
 - `for` Loop
 - `while` Loop
 - `break`
@@ -42,6 +44,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 ---
 
 ## ✅ Day 3 - Functions
+
 - Creating Functions
 - Parameters
 - Return Values
@@ -52,6 +55,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 ---
 
 ## ✅ Day 4 - Lists
+
 - Creating Lists
 - Accessing Elements
 - Modifying Lists
@@ -115,6 +119,19 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 8 - File Handling
+
+- Reading Files
+- Writing Files
+- Appending Files
+- File Modes (`r`, `w`, `a`)
+- Using `with open()`
+- Reading Files Line by Line
+- `strip()` Method
+- Student File Manager Mini Project
+
+---
+
 # 🎯 Goal
 
 My goal is to become a **professional AI/ML Engineer** by:
@@ -148,6 +165,7 @@ ai-ml-journey/
 ├── Day-05/
 ├── Day-06/
 ├── Day-07/
+├── Day-08/
 │
 └── README.md
 ```
@@ -157,7 +175,7 @@ ai-ml-journey/
 # 🌟 Future Learning Roadmap
 
 ## 🐍 Python Advanced
-- File Handling
+
 - Exception Handling
 - Modules & Packages
 - Lambda Functions
