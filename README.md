@@ -2,13 +2,24 @@
 
 Hi! I'm **Muhammad Usman Shakir**.
 
-Welcome to my **AI & Machine Learning learning journey!** This repository documents my daily progress as I work toward becoming an **AI/ML Engineer** by learning Python, building projects, and practicing Git & GitHub.
+Welcome to my **AI & Machine Learning Journey!** This repository documents my daily learning progress as I work toward becoming a professional **AI/ML Engineer**. Every day, I learn new concepts, build Python programs, complete mini projects, and strengthen my Git & GitHub skills.
 
 ---
 
-## 📅 Progress
+# 📈 Current Progress
 
-### ✅ Day 1 - Python Basics
+- ✅ **7 Days Completed**
+- 📂 **7 Learning Modules**
+- 💻 **35+ Python Programs**
+- 🚀 **7 Mini Projects**
+- 📚 Learning Every Day
+- 🔥 Building My AI/ML Portfolio on GitHub
+
+---
+
+# 📅 Daily Progress
+
+## ✅ Day 1 - Python Basics
 - Variables
 - Data Types
 - Input/Output
@@ -17,24 +28,32 @@ Welcome to my **AI & Machine Learning learning journey!** This repository docume
 - Largest of Three Numbers
 - Simple Calculator
 
-### ✅ Day 2 - Loops
+---
+
+## ✅ Day 2 - Loops
 - `for` Loop
 - `while` Loop
-- `break` & `continue`
+- `break`
+- `continue`
 - Multiplication Table
 - Sum of Numbers
 - Guess the Number Game
 
-### ✅ Day 3 - Functions
+---
+
+## ✅ Day 3 - Functions
 - Creating Functions
 - Parameters
 - Return Values
-- Local & Global Variables
+- Local Variables
+- Global Variables
 - Function-Based Calculator
 
-### ✅ Day 4 - Lists
+---
+
+## ✅ Day 4 - Lists
 - Creating Lists
-- Accessing List Elements
+- Accessing Elements
 - Modifying Lists
 - `append()`
 - `insert()`
@@ -44,33 +63,71 @@ Welcome to my **AI & Machine Learning learning journey!** This repository docume
 - Looping Through Lists
 - Student Manager Mini Project
 
-### ✅ Day 5 - Tuples, Sets & Dictionaries
-- Tuples
+---
+
+## ✅ Day 5 - Tuples, Sets & Dictionaries
+
+### Tuples
+- Creating Tuples
 - Tuple Methods (`count()`, `index()`)
-- Sets
-- Set Methods (`add()`, `remove()`)
-- Dictionaries
+
+### Sets
+- Creating Sets
+- `add()`
+- `remove()`
+
+### Dictionaries
+- Creating Dictionaries
 - Accessing Dictionary Values
 - Iterating with `.items()`
-- Student Record Manager Mini Project
 
-### ✅ Day 6 - Strings
+### Mini Project
+- Student Record Manager
+
+---
+
+## ✅ Day 6 - Strings
+
 - String Introduction
 - String Indexing
 - String Slicing
-- String Methods (`upper()`, `lower()`, `replace()`, `strip()`, `split()`)
+- String Methods
+  - `upper()`
+  - `lower()`
+  - `replace()`
+  - `strip()`
+  - `split()`
 - Word Counter Mini Project
 - Palindrome Checker Mini Project
 
 ---
 
-## 🎯 Goal
+## ✅ Day 7 - Object-Oriented Programming (OOP)
 
-To become an **AI/ML Engineer** by learning consistently, building real-world projects, and mastering Machine Learning concepts.
+- Classes
+- Objects
+- Attributes
+- Methods
+- Constructors (`__init__`)
+- The `self` Keyword
+- Multiple Objects
+- Student Management System (OOP Project)
 
 ---
 
-## 🛠️ Technologies
+# 🎯 Goal
+
+My goal is to become a **professional AI/ML Engineer** by:
+
+- Learning consistently every day
+- Building real-world projects
+- Mastering Python and Machine Learning
+- Creating an impressive GitHub portfolio
+- Preparing for internships and AI engineering roles
+
+---
+
+# 🛠️ Technologies & Tools
 
 - Python
 - Git
@@ -79,7 +136,7 @@ To become an **AI/ML Engineer** by learning consistently, building real-world pr
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 ai-ml-journey/
@@ -90,48 +147,91 @@ ai-ml-journey/
 ├── Day-04/
 ├── Day-05/
 ├── Day-06/
+├── Day-07/
+│
 └── README.md
 ```
 
 ---
 
-## 🌟 Future Learning Roadmap
+# 🌟 Future Learning Roadmap
 
-### Python Fundamentals
-- Python Advanced
-- Object-Oriented Programming (OOP)
+## 🐍 Python Advanced
 - File Handling
 - Exception Handling
+- Modules & Packages
+- Lambda Functions
+- List Comprehensions
+- Iterators & Generators
+- Decorators
 
-### Data Science
+---
+
+## 📊 Data Science
+
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 
-### Machine Learning
+---
+
+## 🤖 Machine Learning
+
 - Scikit-learn
+- Data Preprocessing
 - Supervised Learning
 - Unsupervised Learning
 - Model Evaluation
 - Feature Engineering
 
-### Deep Learning
+---
+
+## 🧠 Deep Learning
+
 - Neural Networks
 - TensorFlow
 - PyTorch
-
-### Artificial Intelligence
-- Natural Language Processing (NLP)
-- Computer Vision
-- Generative AI & LLMs
-- AI Agents
-- AI Projects & Deployment
+- CNN
+- RNN
+- LSTM
 
 ---
 
-## ⭐ Connect With Me
+## 🚀 Artificial Intelligence
 
-If you're following my journey, feel free to explore the code and watch my progress as I learn AI & Machine Learning one day at a time.
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
 
-If you find this repository helpful, consider giving it a ⭐ **Star**!
+---
+
+## ☁️ Deployment & MLOps
+
+- Flask
+- FastAPI
+- Streamlit
+- Docker
+- Model Deployment
+- REST APIs
+
+---
+
+# 🏆 Learning Philosophy
+
+> **"Small progress every day leads to big achievements."**
+
+I believe consistency is the key to mastering Artificial Intelligence and Machine Learning. Every day I solve problems, build projects, and improve my programming skills.
+
+---
+
+# 📬 Connect With Me
+
+If you're following my AI & ML journey, feel free to explore the repository and watch my progress as I continue learning.
+
+If you find this repository helpful, consider giving it a ⭐ **Star**.
+
+Happy Coding! 🚀
