@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **8 Days Completed**
-- 📂 **8 Learning Modules**
-- 💻 **40+ Python Programs**
-- 🚀 **8 Mini Projects**
+- ✅ **9 Days Completed**
+- 📂 **9 Learning Modules**
+- 💻 **45+ Python Programs**
+- 🚀 **9 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -132,6 +132,20 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 9 - Exception Handling
+
+- Understanding Exceptions
+- `try`
+- `except`
+- `else`
+- `finally`
+- Handling Multiple Exceptions
+- `ZeroDivisionError`
+- `ValueError`
+- Safe Calculator Mini Project
+
+---
+
 # 🎯 Goal
 
 My goal is to become a **professional AI/ML Engineer** by:
@@ -166,6 +180,7 @@ ai-ml-journey/
 ├── Day-06/
 ├── Day-07/
 ├── Day-08/
+├── Day-09/
 │
 └── README.md
 ```
@@ -176,7 +191,6 @@ ai-ml-journey/
 
 ## 🐍 Python Advanced
 
-- Exception Handling
 - Modules & Packages
 - Lambda Functions
 - List Comprehensions
