@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **9 Days Completed**
-- 📂 **9 Learning Modules**
-- 💻 **45+ Python Programs**
-- 🚀 **9 Mini Projects**
+- ✅ **10 Days Completed**
+- 📂 **10 Learning Modules**
+- 💻 **50+ Python Programs**
+- 🚀 **10 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -146,6 +146,23 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 10 - Modules & Packages
+
+- Understanding Modules
+- Importing Built-in Modules
+- `import module`
+- `from module import function`
+- Module Aliases (`import module as alias`)
+- Using the `math` Module
+- Using the `random` Module
+- Using the `datetime` Module
+- Using the `string` Module
+- Creating Custom Modules
+- Importing Custom Modules
+- Random Password Generator Mini Project
+
+---
+
 # 🎯 Goal
 
 My goal is to become a **professional AI/ML Engineer** by:
@@ -181,6 +198,7 @@ ai-ml-journey/
 ├── Day-07/
 ├── Day-08/
 ├── Day-09/
+├── Day-10/
 │
 └── README.md
 ```
@@ -191,7 +209,6 @@ ai-ml-journey/
 
 ## 🐍 Python Advanced
 
-- Modules & Packages
 - Lambda Functions
 - List Comprehensions
 - Iterators & Generators
