@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **10 Days Completed**
-- 📂 **10 Learning Modules**
-- 💻 **50+ Python Programs**
-- 🚀 **10 Mini Projects**
+- ✅ **11 Days Completed**
+- 📂 **11 Learning Modules**
+- 💻 **55+ Python Programs**
+- 🚀 **11 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -163,6 +163,19 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 11 - Lambda Functions & Functional Programming
+
+- Lambda Functions
+- Lambda with Multiple Parameters
+- `map()` Function
+- `filter()` Function
+- Sorting with `lambda`
+- `sorted()` Function
+- `reverse=True`
+- Student Grade Analyzer Mini Project
+
+---
+
 # 🎯 Goal
 
 My goal is to become a **professional AI/ML Engineer** by:
@@ -199,6 +212,7 @@ ai-ml-journey/
 ├── Day-08/
 ├── Day-09/
 ├── Day-10/
+├── Day-11/
 │
 └── README.md
 ```
@@ -209,7 +223,6 @@ ai-ml-journey/
 
 ## 🐍 Python Advanced
 
-- Lambda Functions
 - List Comprehensions
 - Iterators & Generators
 - Decorators
