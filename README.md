@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **11 Days Completed**
-- 📂 **11 Learning Modules**
-- 💻 **55+ Python Programs**
-- 🚀 **11 Mini Projects**
+- ✅ **12 Days Completed**
+- 📂 **12 Learning Modules**
+- 💻 **60+ Python Programs**
+- 🚀 **12 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -176,6 +176,26 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 12 - Comprehensions
+
+### List Comprehensions
+- Basic List Comprehensions
+- Conditional List Comprehensions
+- `if-else` in List Comprehensions
+- Nested List Comprehensions
+
+### Dictionary Comprehensions
+- Creating Dictionaries in One Line
+
+### Set Comprehensions
+- Creating Sets in One Line
+- Automatic Duplicate Removal
+
+### Mini Project
+- Student Data Filter
+
+---
+
 # 🎯 Goal
 
 My goal is to become a **professional AI/ML Engineer** by:
@@ -213,6 +233,7 @@ ai-ml-journey/
 ├── Day-09/
 ├── Day-10/
 ├── Day-11/
+├── Day-12/
 │
 └── README.md
 ```
@@ -223,7 +244,6 @@ ai-ml-journey/
 
 ## 🐍 Python Advanced
 
-- List Comprehensions
 - Iterators & Generators
 - Decorators
 
