@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **12 Days Completed**
-- 📂 **12 Learning Modules**
-- 💻 **60+ Python Programs**
-- 🚀 **12 Mini Projects**
+- ✅ **13 Days Completed**
+- 📂 **13 Learning Modules**
+- 💻 **65+ Python Programs**
+- 🚀 **13 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -196,6 +196,20 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 13 - Iterators & Generators
+
+- Understanding Iterators
+- `iter()` Function
+- `next()` Function
+- `StopIteration` Exception
+- Generator Functions
+- `yield` Keyword
+- Generator Expressions
+- Memory-Efficient Iteration
+- Even Number Generator Mini Project
+
+---
+
 # 🎯 Goal
 
 My goal is to become a **professional AI/ML Engineer** by:
@@ -234,6 +248,7 @@ ai-ml-journey/
 ├── Day-10/
 ├── Day-11/
 ├── Day-12/
+├── Day-13/
 │
 └── README.md
 ```
@@ -244,7 +259,6 @@ ai-ml-journey/
 
 ## 🐍 Python Advanced
 
-- Iterators & Generators
 - Decorators
 
 ---
