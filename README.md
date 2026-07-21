@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **13 Days Completed**
-- 📂 **13 Learning Modules**
-- 💻 **65+ Python Programs**
-- 🚀 **13 Mini Projects**
+- ✅ **14 Days Completed**
+- 📂 **14 Learning Modules**
+- 💻 **70+ Python Programs**
+- 🚀 **14 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -210,6 +210,19 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 14 - Decorators
+
+- Functions as Objects
+- Nested Functions
+- Returning Functions
+- Understanding Decorators
+- `@decorator` Syntax
+- Decorators with Arguments
+- Measuring Execution Time
+- Execution Timer Mini Project
+
+---
+
 # 🎯 Goal
 
 My goal is to become a **professional AI/ML Engineer** by:
@@ -249,6 +262,7 @@ ai-ml-journey/
 ├── Day-11/
 ├── Day-12/
 ├── Day-13/
+├── Day-14/
 │
 └── README.md
 ```
@@ -259,7 +273,11 @@ ai-ml-journey/
 
 ## 🐍 Python Advanced
 
-- Decorators
+- Virtual Environments (`venv`)
+- Package Management (`pip`)
+- Regular Expressions (`re`)
+- Working with JSON
+- Working with CSV Files
 
 ---
 
