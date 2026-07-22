@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **14 Days Completed**
-- 📂 **14 Learning Modules**
-- 💻 **70+ Python Programs**
-- 🚀 **14 Mini Projects**
+- ✅ **15 Days Completed**
+- 📂 **15 Learning Modules**
+- 💻 **75+ Python Programs**
+- 🚀 **15 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -179,19 +179,23 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 ## ✅ Day 12 - Comprehensions
 
 ### List Comprehensions
+
 - Basic List Comprehensions
 - Conditional List Comprehensions
 - `if-else` in List Comprehensions
 - Nested List Comprehensions
 
 ### Dictionary Comprehensions
+
 - Creating Dictionaries in One Line
 
 ### Set Comprehensions
+
 - Creating Sets in One Line
 - Automatic Duplicate Removal
 
 ### Mini Project
+
 - Student Data Filter
 
 ---
@@ -223,6 +227,21 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 15 - Virtual Environments & Package Management
+
+- Creating Virtual Environments (`venv`)
+- Activating Virtual Environments
+- Understanding Python Packages
+- Installing Packages with `pip`
+- Managing Dependencies
+- Creating `requirements.txt`
+- Listing Installed Packages with `pkgutil`
+- Checking Installed Packages
+- Difference Between Standard Library & Third-Party Packages
+- Package Explorer Mini Project
+
+---
+
 # 🎯 Goal
 
 My goal is to become a **professional AI/ML Engineer** by:
@@ -241,6 +260,8 @@ My goal is to become a **professional AI/ML Engineer** by:
 - Git
 - GitHub
 - Visual Studio Code (VS Code)
+- Virtual Environments (`venv`)
+- pip
 
 ---
 
@@ -263,89 +284,73 @@ ai-ml-journey/
 ├── Day-12/
 ├── Day-13/
 ├── Day-14/
+├── Day-15/
 │
 └── README.md
-```
+🌟 Future Learning Roadmap
+🐍 Python Advanced
 
----
+✅ Python Basics
+✅ Loops
+✅ Functions
+✅ Lists
+✅ Tuples, Sets & Dictionaries
+✅ Strings
+✅ Object-Oriented Programming (OOP)
+✅ File Handling
+✅ Exception Handling
+✅ Modules & Packages
+✅ Lambda Functions
+✅ Comprehensions
+✅ Iterators & Generators
+✅ Decorators
+✅ Virtual Environments & Package Management
 
-# 🌟 Future Learning Roadmap
+🎉 Python Fundamentals Completed!
 
-## 🐍 Python Advanced
+📊 Data Science (Next Phase)
+NumPy
+Pandas
+Matplotlib
+Seaborn
+🤖 Machine Learning
+Scikit-learn
+Data Preprocessing
+Supervised Learning
+Unsupervised Learning
+Model Evaluation
+Feature Engineering
+🧠 Deep Learning
+Neural Networks
+TensorFlow
+PyTorch
+CNN
+RNN
+LSTM
+🚀 Artificial Intelligence
+Natural Language Processing (NLP)
+Computer Vision
+Generative AI
+Large Language Models (LLMs)
+Retrieval-Augmented Generation (RAG)
+AI Agents
+☁️ Deployment & MLOps
+Flask
+FastAPI
+Streamlit
+Docker
+Model Deployment
+REST APIs
+🏆 Learning Philosophy
 
-- Virtual Environments (`venv`)
-- Package Management (`pip`)
-- Regular Expressions (`re`)
-- Working with JSON
-- Working with CSV Files
-
----
-
-## 📊 Data Science
-
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-
----
-
-## 🤖 Machine Learning
-
-- Scikit-learn
-- Data Preprocessing
-- Supervised Learning
-- Unsupervised Learning
-- Model Evaluation
-- Feature Engineering
-
----
-
-## 🧠 Deep Learning
-
-- Neural Networks
-- TensorFlow
-- PyTorch
-- CNN
-- RNN
-- LSTM
-
----
-
-## 🚀 Artificial Intelligence
-
-- Natural Language Processing (NLP)
-- Computer Vision
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-
----
-
-## ☁️ Deployment & MLOps
-
-- Flask
-- FastAPI
-- Streamlit
-- Docker
-- Model Deployment
-- REST APIs
-
----
-
-# 🏆 Learning Philosophy
-
-> **"Small progress every day leads to big achievements."**
+"Small progress every day leads to big achievements."
 
 I believe consistency is the key to mastering Artificial Intelligence and Machine Learning. Every day I solve problems, build projects, and improve my programming skills.
 
----
-
-# 📬 Connect With Me
+📬 Connect With Me
 
 If you're following my AI & ML journey, feel free to explore the repository and watch my progress as I continue learning.
 
-If you find this repository helpful, consider giving it a ⭐ **Star**.
+If you find this repository helpful, consider giving it a ⭐ Star.
 
 Happy Coding! 🚀
