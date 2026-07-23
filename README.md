@@ -2,16 +2,18 @@
 
 Hi! I'm **Muhammad Usman Shakir**.
 
-Welcome to my **AI & Machine Learning Journey!** This repository documents my daily learning progress as I work toward becoming a professional **AI/ML Engineer**. Every day, I learn new concepts, build Python programs, complete mini projects, and strengthen my Git & GitHub skills.
+Welcome to my **AI & Machine Learning Journey!** This repository documents my daily learning progress as I work toward becoming a professional **AI/ML Engineer**.
+
+Every day, I learn new concepts, build Python programs, complete mini projects, and strengthen my Git & GitHub skills while preparing for internships and real-world AI projects.
 
 ---
 
 # 📈 Current Progress
 
-- ✅ **15 Days Completed**
-- 📂 **15 Learning Modules**
-- 💻 **75+ Python Programs**
-- 🚀 **15 Mini Projects**
+- ✅ **16 Days Completed**
+- 📂 **16 Learning Modules**
+- 💻 **90+ Python Programs**
+- 🚀 **16 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -72,20 +74,24 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 ## ✅ Day 5 - Tuples, Sets & Dictionaries
 
 ### Tuples
+
 - Creating Tuples
 - Tuple Methods (`count()`, `index()`)
 
 ### Sets
+
 - Creating Sets
 - `add()`
 - `remove()`
 
 ### Dictionaries
+
 - Creating Dictionaries
 - Accessing Dictionary Values
 - Iterating with `.items()`
 
 ### Mini Project
+
 - Student Record Manager
 
 ---
@@ -152,13 +158,12 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Importing Built-in Modules
 - `import module`
 - `from module import function`
-- Module Aliases (`import module as alias`)
-- Using the `math` Module
-- Using the `random` Module
-- Using the `datetime` Module
-- Using the `string` Module
+- Module Aliases
+- Using `math`
+- Using `random`
+- Using `datetime`
+- Using `string`
 - Creating Custom Modules
-- Importing Custom Modules
 - Random Password Generator Mini Project
 
 ---
@@ -166,11 +171,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 ## ✅ Day 11 - Lambda Functions & Functional Programming
 
 - Lambda Functions
-- Lambda with Multiple Parameters
-- `map()` Function
-- `filter()` Function
+- `map()`
+- `filter()`
 - Sorting with `lambda`
-- `sorted()` Function
+- `sorted()`
 - `reverse=True`
 - Student Grade Analyzer Mini Project
 
@@ -182,17 +186,17 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 - Basic List Comprehensions
 - Conditional List Comprehensions
-- `if-else` in List Comprehensions
+- `if-else`
 - Nested List Comprehensions
 
 ### Dictionary Comprehensions
 
-- Creating Dictionaries in One Line
+- Creating Dictionaries
 
 ### Set Comprehensions
 
-- Creating Sets in One Line
-- Automatic Duplicate Removal
+- Creating Sets
+- Removing Duplicates
 
 ### Mini Project
 
@@ -202,14 +206,14 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ## ✅ Day 13 - Iterators & Generators
 
-- Understanding Iterators
-- `iter()` Function
-- `next()` Function
-- `StopIteration` Exception
+- Iterators
+- `iter()`
+- `next()`
+- `StopIteration`
 - Generator Functions
-- `yield` Keyword
+- `yield`
 - Generator Expressions
-- Memory-Efficient Iteration
+- Memory Efficient Iteration
 - Even Number Generator Mini Project
 
 ---
@@ -219,38 +223,54 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Functions as Objects
 - Nested Functions
 - Returning Functions
-- Understanding Decorators
-- `@decorator` Syntax
+- Decorators
+- `@decorator`
 - Decorators with Arguments
-- Measuring Execution Time
 - Execution Timer Mini Project
 
 ---
 
 ## ✅ Day 15 - Virtual Environments & Package Management
 
-- Creating Virtual Environments (`venv`)
+- Virtual Environments (`venv`)
 - Activating Virtual Environments
-- Understanding Python Packages
-- Installing Packages with `pip`
-- Managing Dependencies
-- Creating `requirements.txt`
-- Listing Installed Packages with `pkgutil`
-- Checking Installed Packages
-- Difference Between Standard Library & Third-Party Packages
+- Python Packages
+- Installing Packages using `pip`
+- `requirements.txt`
+- Package Management
 - Package Explorer Mini Project
+
+---
+
+## ✅ Day 16 - Regular Expressions (Regex)
+
+- Introduction to Regular Expressions
+- `re.search()`
+- `re.match()`
+- `re.findall()`
+- `re.finditer()`
+- `re.sub()`
+- `re.split()`
+- Regex Metacharacters
+  - `\d`, `\D`
+  - `\w`, `\W`
+  - `\s`, `\S`
+  - `^`, `$`
+- `re.IGNORECASE`
+- User Information Validator Mini Project
+- JSON Data Saving
 
 ---
 
 # 🎯 Goal
 
-My goal is to become a **professional AI/ML Engineer** by:
+My goal is to become a professional **AI & Machine Learning Engineer** by:
 
 - Learning consistently every day
 - Building real-world projects
 - Mastering Python and Machine Learning
 - Creating an impressive GitHub portfolio
-- Preparing for internships and AI engineering roles
+- Preparing for AI internships and software engineering roles
 
 ---
 
@@ -259,9 +279,10 @@ My goal is to become a **professional AI/ML Engineer** by:
 - Python
 - Git
 - GitHub
-- Visual Studio Code (VS Code)
+- Visual Studio Code
 - Virtual Environments (`venv`)
 - pip
+- JSON
 
 ---
 
@@ -285,72 +306,119 @@ ai-ml-journey/
 ├── Day-13/
 ├── Day-14/
 ├── Day-15/
+├── Day-16/
 │
 └── README.md
-🌟 Future Learning Roadmap
-🐍 Python Advanced
+```
 
-✅ Python Basics
-✅ Loops
-✅ Functions
-✅ Lists
-✅ Tuples, Sets & Dictionaries
-✅ Strings
-✅ Object-Oriented Programming (OOP)
-✅ File Handling
-✅ Exception Handling
-✅ Modules & Packages
-✅ Lambda Functions
-✅ Comprehensions
-✅ Iterators & Generators
-✅ Decorators
-✅ Virtual Environments & Package Management
+---
 
-🎉 Python Fundamentals Completed!
+# 🌟 Future Learning Roadmap
 
-📊 Data Science (Next Phase)
-NumPy
-Pandas
-Matplotlib
-Seaborn
-🤖 Machine Learning
-Scikit-learn
-Data Preprocessing
-Supervised Learning
-Unsupervised Learning
-Model Evaluation
-Feature Engineering
-🧠 Deep Learning
-Neural Networks
-TensorFlow
-PyTorch
-CNN
-RNN
-LSTM
-🚀 Artificial Intelligence
-Natural Language Processing (NLP)
-Computer Vision
-Generative AI
-Large Language Models (LLMs)
-Retrieval-Augmented Generation (RAG)
-AI Agents
-☁️ Deployment & MLOps
-Flask
-FastAPI
-Streamlit
-Docker
-Model Deployment
-REST APIs
-🏆 Learning Philosophy
+## 🐍 Python
 
-"Small progress every day leads to big achievements."
+- ✅ Python Fundamentals (Completed through Day 16)
+- Object-Oriented Programming
+- File Handling
+- Exception Handling
+- Regular Expressions
+- Advanced Python
 
-I believe consistency is the key to mastering Artificial Intelligence and Machine Learning. Every day I solve problems, build projects, and improve my programming skills.
+---
 
-📬 Connect With Me
+## 📊 Data Science
 
-If you're following my AI & ML journey, feel free to explore the repository and watch my progress as I continue learning.
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
-If you find this repository helpful, consider giving it a ⭐ Star.
+---
+
+## 🤖 Machine Learning
+
+- Scikit-learn
+- Data Preprocessing
+- Supervised Learning
+- Unsupervised Learning
+- Model Evaluation
+- Feature Engineering
+
+---
+
+## 🧠 Deep Learning
+
+- Neural Networks
+- TensorFlow
+- PyTorch
+- CNN
+- RNN
+- LSTM
+
+---
+
+## 🚀 Artificial Intelligence
+
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+
+---
+
+## ☁️ Deployment & MLOps
+
+- Flask
+- FastAPI
+- Streamlit
+- Docker
+- REST APIs
+- Model Deployment
+
+---
+
+# 📊 GitHub Journey
+
+I use this repository to:
+
+- 📅 Learn every day
+- 💻 Practice Python by writing code
+- 🚀 Build mini projects
+- 📂 Track my progress publicly
+- 📈 Improve my software engineering skills
+
+---
+
+# 🏆 Learning Philosophy
+
+> **"Small progress every day leads to big achievements."**
+
+I believe consistency is the key to mastering Artificial Intelligence and Machine Learning.
+
+Every day I solve problems, build projects, improve my coding skills, and move one step closer to becoming an AI Engineer.
+
+---
+
+# 📬 Connect With Me
+
+**Muhammad Usman Shakir**
+
+🎓 BS Software Engineering — PUCIT
+
+🤖 Aspiring AI & Machine Learning Engineer
+
+📚 Currently learning Python, Data Science & Machine Learning
+
+**GitHub:** https://github.com/muhammadusmanshakir
+
+---
+
+# ⭐ Support
+
+If you find this repository helpful or enjoy following my learning journey, please consider giving it a ⭐ **Star**.
+
+Your support motivates me to continue learning, building projects, and sharing my progress with the community.
 
 Happy Coding! 🚀
