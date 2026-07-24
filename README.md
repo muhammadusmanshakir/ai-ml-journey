@@ -2,7 +2,7 @@
 
 Hi! I'm **Muhammad Usman Shakir**.
 
-Welcome to my **AI & Machine Learning Journey!** This repository documents my daily learning progress as I work toward becoming a professional **AI/ML Engineer**.
+Welcome to my **AI & Machine Learning Journey!** This repository documents my daily learning progress as I work toward becoming a professional **AI & Machine Learning Engineer**.
 
 Every day, I learn new concepts, build Python programs, complete mini projects, and strengthen my Git & GitHub skills while preparing for internships and real-world AI projects.
 
@@ -10,10 +10,10 @@ Every day, I learn new concepts, build Python programs, complete mini projects, 
 
 # 📈 Current Progress
 
-- ✅ **16 Days Completed**
-- 📂 **16 Learning Modules**
-- 💻 **90+ Python Programs**
-- 🚀 **16 Mini Projects**
+- ✅ **17 Days Completed**
+- 📂 **17 Learning Modules**
+- 💻 **110+ Python Programs**
+- 🚀 **17 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -262,13 +262,39 @@ Every day, I learn new concepts, build Python programs, complete mini projects, 
 
 ---
 
+## ✅ Day 17 - NumPy Fundamentals
+
+- Introduction to NumPy
+- Installing NumPy
+- Creating NumPy Arrays
+- 1D Arrays
+- 2D Arrays
+- 3D Arrays
+- Array Properties
+  - `ndim`
+  - `shape`
+  - `size`
+  - `dtype`
+- Array Indexing
+- Array Slicing
+- Mathematical Operations
+- NumPy Functions
+  - `sum()`
+  - `mean()`
+  - `max()`
+  - `min()`
+- Boolean Indexing
+- Student Marks Analyzer Mini Project
+
+---
+
 # 🎯 Goal
 
 My goal is to become a professional **AI & Machine Learning Engineer** by:
 
 - Learning consistently every day
 - Building real-world projects
-- Mastering Python and Machine Learning
+- Mastering Python, Data Science & Machine Learning
 - Creating an impressive GitHub portfolio
 - Preparing for AI internships and software engineering roles
 
@@ -277,6 +303,7 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 # 🛠️ Technologies & Tools
 
 - Python
+- NumPy
 - Git
 - GitHub
 - Visual Studio Code
@@ -307,6 +334,7 @@ ai-ml-journey/
 ├── Day-14/
 ├── Day-15/
 ├── Day-16/
+├── Day-17/
 │
 └── README.md
 ```
@@ -317,18 +345,20 @@ ai-ml-journey/
 
 ## 🐍 Python
 
-- ✅ Python Fundamentals (Completed through Day 16)
-- Object-Oriented Programming
-- File Handling
-- Exception Handling
-- Regular Expressions
-- Advanced Python
+- ✅ Python Fundamentals
+- ✅ Object-Oriented Programming
+- ✅ File Handling
+- ✅ Exception Handling
+- ✅ Regular Expressions
+- ✅ NumPy Fundamentals
+- 🔜 Advanced NumPy
 
 ---
 
 ## 📊 Data Science
 
-- NumPy
+- ✅ NumPy Fundamentals
+- 🔜 Advanced NumPy
 - Pandas
 - Matplotlib
 - Seaborn
@@ -388,6 +418,7 @@ I use this repository to:
 - 🚀 Build mini projects
 - 📂 Track my progress publicly
 - 📈 Improve my software engineering skills
+- 🤖 Build a strong AI & ML portfolio
 
 ---
 
