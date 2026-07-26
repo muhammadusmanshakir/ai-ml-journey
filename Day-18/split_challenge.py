@@ -1,0 +1,13 @@
+import numpy as np
+arr=np.array([5,10,15,20,25,30,35,40])
+print("Original Array:")
+print(arr)
+parts=np.split(arr,4)
+print("\nFirst Part:")
+print(parts[0])
+print("\nSecond part:")
+print(parts[1])
+print("\nThird part:")
+print(parts[2])
+print("\nForth Part:")
+print(parts[3])

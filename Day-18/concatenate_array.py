@@ -1,0 +1,10 @@
+import numpy as np
+arr1=np.array([1,2,3])
+arr2=np.array([4,5,6])
+print("Array 1:")
+print(arr1)
+print("\nArray 2:")
+print(arr2)
+result=np.concatenate((arr1,arr2))
+print("\nAfter Concatenation:")
+print(result)

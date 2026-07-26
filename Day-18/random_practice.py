@@ -1,0 +1,13 @@
+import numpy as np
+num1=np.random.randint(1,20)
+num2=np.random.rand()
+arr1=np.random.randint(1,20,size=6)
+arr2=np.random.randint(1,20,size=(2,3))
+print("Random Integer:")
+print(num1)
+print("\nRandom Float:")
+print(num2)
+print("\n1D Array:")
+print(arr1)
+print("\n2D Array:")
+print(arr2)
