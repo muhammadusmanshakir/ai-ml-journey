@@ -10,10 +10,10 @@ Every day, I learn new concepts, build Python programs, complete mini projects, 
 
 # 📈 Current Progress
 
-- ✅ **17 Days Completed**
-- 📂 **17 Learning Modules**
-- 💻 **110+ Python Programs**
-- 🚀 **17 Mini Projects**
+- ✅ **18 Days Completed**
+- 📂 **18 Learning Modules**
+- 💻 **125+ Python Programs**
+- 🚀 **18 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -288,6 +288,40 @@ Every day, I learn new concepts, build Python programs, complete mini projects, 
 
 ---
 
+## ✅ Day 18 - Advanced NumPy Array Operations
+
+### Array Shape Operations
+
+- `reshape()`
+- `flatten()`
+- `ravel()`
+- Difference between `flatten()` and `ravel()`
+
+### Joining Arrays
+
+- `concatenate()`
+- `hstack()`
+- `vstack()`
+
+### Splitting Arrays
+
+- `split()`
+
+### Random Module
+
+- `np.random.randint()`
+- `np.random.rand()`
+- Random 1D Arrays
+- Random 2D Arrays
+- `np.random.seed()`
+- Reproducible Random Numbers
+
+### Mini Project
+
+- Random Student Marks Analyzer
+
+---
+
 # 🎯 Goal
 
 My goal is to become a professional **AI & Machine Learning Engineer** by:
@@ -335,6 +369,7 @@ ai-ml-journey/
 ├── Day-15/
 ├── Day-16/
 ├── Day-17/
+├── Day-18/
 │
 └── README.md
 ```
@@ -352,16 +387,18 @@ ai-ml-journey/
 - ✅ Regular Expressions
 - ✅ NumPy Fundamentals
 - 🔜 Advanced NumPy
+- 🔜 Pandas
 
 ---
 
 ## 📊 Data Science
 
 - ✅ NumPy Fundamentals
-- 🔜 Advanced NumPy
+- 🔄 Advanced NumPy (In Progress)
 - Pandas
 - Matplotlib
 - Seaborn
+- Data Visualization
 
 ---
 
@@ -369,10 +406,11 @@ ai-ml-journey/
 
 - Scikit-learn
 - Data Preprocessing
+- Feature Engineering
 - Supervised Learning
 - Unsupervised Learning
 - Model Evaluation
-- Feature Engineering
+- Model Selection
 
 ---
 
@@ -406,6 +444,8 @@ ai-ml-journey/
 - Docker
 - REST APIs
 - Model Deployment
+- GitHub Actions
+- MLflow
 
 ---
 
