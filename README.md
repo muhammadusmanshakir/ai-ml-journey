@@ -4,16 +4,14 @@ Hi! I'm **Muhammad Usman Shakir**.
 
 Welcome to my **AI & Machine Learning Journey!** This repository documents my daily learning progress as I work toward becoming a professional **AI & Machine Learning Engineer**.
 
-Every day, I learn new concepts, build Python programs, complete mini projects, and strengthen my Git & GitHub skills while preparing for internships and real-world AI projects.
-
 ---
 
 # 📈 Current Progress
 
-- ✅ **18 Days Completed**
-- 📂 **18 Learning Modules**
-- 💻 **125+ Python Programs**
-- 🚀 **18 Mini Projects**
+- ✅ **19 Days Completed**
+- 📂 **19 Learning Modules**
+- 💻 **130+ Python Programs**
+- 🚀 **19 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -322,6 +320,45 @@ Every day, I learn new concepts, build Python programs, complete mini projects, 
 
 ---
 
+## ✅ Day 19 - NumPy Copy, View, Iteration, Sorting & Searching
+
+### Copy & View
+
+- `copy()`
+- `view()`
+- Difference between Copy and View
+
+### Array Iteration
+
+- Iterating 1D Arrays
+- Iterating 2D Arrays
+- `np.nditer()`
+- `np.ndenumerate()`
+
+### Boolean Filtering
+
+- Filtering Arrays with Conditions
+- Even Number Filtering
+- Marks Filtering
+
+### Sorting Arrays
+
+- `np.sort()`
+- Sorting Numeric Arrays
+- Sorting String Arrays
+- Sorting 2D Arrays
+
+### Searching Arrays
+
+- `np.where()`
+- `np.searchsorted()`
+
+### Mini Project
+
+- Student Result Analyzer
+
+---
+
 # 🎯 Goal
 
 My goal is to become a professional **AI & Machine Learning Engineer** by:
@@ -370,6 +407,7 @@ ai-ml-journey/
 ├── Day-16/
 ├── Day-17/
 ├── Day-18/
+├── Day-19/
 │
 └── README.md
 ```
@@ -385,20 +423,19 @@ ai-ml-journey/
 - ✅ File Handling
 - ✅ Exception Handling
 - ✅ Regular Expressions
-- ✅ NumPy Fundamentals
-- 🔜 Advanced NumPy
-- 🔜 Pandas
 
 ---
 
 ## 📊 Data Science
 
 - ✅ NumPy Fundamentals
-- 🔄 Advanced NumPy (In Progress)
-- Pandas
-- Matplotlib
-- Seaborn
-- Data Visualization
+- ✅ Advanced NumPy Basics
+- 🔜 NumPy Advanced (Broadcasting, Axis, Statistics)
+- 🔜 Pandas
+- 🔜 Data Cleaning
+- 🔜 Data Visualization
+- 🔜 Matplotlib
+- 🔜 Seaborn
 
 ---
 
@@ -411,6 +448,8 @@ ai-ml-journey/
 - Unsupervised Learning
 - Model Evaluation
 - Model Selection
+- Cross Validation
+- Pipelines
 
 ---
 
