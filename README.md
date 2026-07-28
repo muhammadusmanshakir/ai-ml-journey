@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **19 Days Completed**
-- 📂 **19 Learning Modules**
-- 💻 **130+ Python Programs**
-- 🚀 **19 Mini Projects**
+- ✅ **20 Days Completed**
+- 📂 **20 Learning Modules**
+- 💻 **140+ Python Programs**
+- 🚀 **20 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -359,6 +359,41 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 20 - NumPy Statistics & Broadcasting
+
+### Statistical Operations
+
+- `sum()`
+- `mean()`
+- `min()`
+- `max()`
+- Using `axis=0`
+- Using `axis=1`
+
+### Broadcasting
+
+- Adding Scalars
+- Subtracting Scalars
+- Multiplying Scalars
+- Dividing Scalars
+
+### Comparison Operations
+
+- `>`
+- `<`
+- `==`
+- Even Number Checking
+
+### Unique Values
+
+- `np.unique()`
+
+### Mini Project
+
+- Student Performance Analyzer
+
+---
+
 # 🎯 Goal
 
 My goal is to become a professional **AI & Machine Learning Engineer** by:
@@ -408,6 +443,7 @@ ai-ml-journey/
 ├── Day-17/
 ├── Day-18/
 ├── Day-19/
+├── Day-20/
 │
 └── README.md
 ```
@@ -429,10 +465,10 @@ ai-ml-journey/
 ## 📊 Data Science
 
 - ✅ NumPy Fundamentals
-- ✅ Advanced NumPy Basics
-- 🔜 NumPy Advanced (Broadcasting, Axis, Statistics)
+- ✅ Advanced NumPy
 - 🔜 Pandas
 - 🔜 Data Cleaning
+- 🔜 Data Analysis
 - 🔜 Data Visualization
 - 🔜 Matplotlib
 - 🔜 Seaborn
