@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **20 Days Completed**
-- 📂 **20 Learning Modules**
-- 💻 **140+ Python Programs**
-- 🚀 **20 Mini Projects**
+- ✅ **21 Days Completed**
+- 📂 **21 Learning Modules**
+- 💻 **150+ Python Programs**
+- 🚀 **21 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -135,7 +135,6 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Student File Manager Mini Project
 
 ---
-
 ## ✅ Day 9 - Exception Handling
 
 - Understanding Exceptions
@@ -259,138 +258,48 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - JSON Data Saving
 
 ---
+## ✅ Day 21 - Pandas Fundamentals & Data Selection
 
-## ✅ Day 17 - NumPy Fundamentals
+### Pandas Basics
 
-- Introduction to NumPy
-- Installing NumPy
-- Creating NumPy Arrays
-- 1D Arrays
-- 2D Arrays
-- 3D Arrays
-- Array Properties
-  - `ndim`
-  - `shape`
-  - `size`
-  - `dtype`
-- Array Indexing
-- Array Slicing
-- Mathematical Operations
-- NumPy Functions
-  - `sum()`
-  - `mean()`
-  - `max()`
-  - `min()`
+- Installing Pandas
+- Importing Pandas
+- Checking Pandas Version
+
+### Series
+
+- Creating a Series
+- Series Index
+- Series Values
+
+### DataFrames
+
+- Creating DataFrames
+- Understanding Rows & Columns
+- Viewing Data
+- `shape`
+- `columns`
+- `index`
+- `dtypes`
+
+### Selecting Data
+
+- Single Column Selection
+- Multiple Column Selection
+- Row Selection using `iloc`
+- Row Selection using `loc`
+- Selecting Specific Rows & Columns
+
+### Filtering Data
+
+- Filter using Single Condition
+- Filter using Multiple Conditions
 - Boolean Indexing
-- Student Marks Analyzer Mini Project
-
----
-
-## ✅ Day 18 - Advanced NumPy Array Operations
-
-### Array Shape Operations
-
-- `reshape()`
-- `flatten()`
-- `ravel()`
-- Difference between `flatten()` and `ravel()`
-
-### Joining Arrays
-
-- `concatenate()`
-- `hstack()`
-- `vstack()`
-
-### Splitting Arrays
-
-- `split()`
-
-### Random Module
-
-- `np.random.randint()`
-- `np.random.rand()`
-- Random 1D Arrays
-- Random 2D Arrays
-- `np.random.seed()`
-- Reproducible Random Numbers
 
 ### Mini Project
 
-- Random Student Marks Analyzer
-
----
-
-## ✅ Day 19 - NumPy Copy, View, Iteration, Sorting & Searching
-
-### Copy & View
-
-- `copy()`
-- `view()`
-- Difference between Copy and View
-
-### Array Iteration
-
-- Iterating 1D Arrays
-- Iterating 2D Arrays
-- `np.nditer()`
-- `np.ndenumerate()`
-
-### Boolean Filtering
-
-- Filtering Arrays with Conditions
-- Even Number Filtering
-- Marks Filtering
-
-### Sorting Arrays
-
-- `np.sort()`
-- Sorting Numeric Arrays
-- Sorting String Arrays
-- Sorting 2D Arrays
-
-### Searching Arrays
-
-- `np.where()`
-- `np.searchsorted()`
-
-### Mini Project
-
-- Student Result Analyzer
-
----
-
-## ✅ Day 20 - NumPy Statistics & Broadcasting
-
-### Statistical Operations
-
-- `sum()`
-- `mean()`
-- `min()`
-- `max()`
-- Using `axis=0`
-- Using `axis=1`
-
-### Broadcasting
-
-- Adding Scalars
-- Subtracting Scalars
-- Multiplying Scalars
-- Dividing Scalars
-
-### Comparison Operations
-
-- `>`
-- `<`
-- `==`
-- Even Number Checking
-
-### Unique Values
-
-- `np.unique()`
-
-### Mini Project
-
-- Student Performance Analyzer
+- Student Data Manager
+- Student Performance Filter
 
 ---
 
@@ -410,6 +319,7 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 
 - Python
 - NumPy
+- Pandas
 - Git
 - GitHub
 - Visual Studio Code
@@ -444,6 +354,7 @@ ai-ml-journey/
 ├── Day-18/
 ├── Day-19/
 ├── Day-20/
+├── Day-21/
 │
 └── README.md
 ```
@@ -466,8 +377,9 @@ ai-ml-journey/
 
 - ✅ NumPy Fundamentals
 - ✅ Advanced NumPy
-- 🔜 Pandas
+- ✅ Pandas Fundamentals
 - 🔜 Data Cleaning
+- 🔜 Handling Missing Values
 - 🔜 Data Analysis
 - 🔜 Data Visualization
 - 🔜 Matplotlib
