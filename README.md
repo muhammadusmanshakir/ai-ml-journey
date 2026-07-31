@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **21 Days Completed**
-- 📂 **21 Learning Modules**
-- 💻 **150+ Python Programs**
-- 🚀 **21 Mini Projects**
+- ✅ **22 Days Completed**
+- 📂 **22 Learning Modules**
+- 💻 **160+ Python Programs**
+- 🚀 **22 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -302,6 +302,38 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Student Performance Filter
 
 ---
+---
+
+## ✅ Day 22 - Pandas CSV Files & Dataset Exploration
+
+### Reading & Writing CSV Files
+
+- Reading CSV Files using `pd.read_csv()`
+- Writing CSV Files using `to_csv()`
+- Saving DataFrames to CSV
+- Loading Existing CSV Files
+
+### Exploring Data
+
+- `head()`
+- `tail()`
+- `sample()`
+- `info()`
+- `describe()`
+
+### Understanding Dataset Information
+
+- Number of Rows & Columns
+- Data Types
+- Memory Usage
+- Non-Null Values
+- Statistical Summary
+
+### Mini Project
+
+- Student CSV Analyzer
+
+---
 
 # 🎯 Goal
 
@@ -320,6 +352,7 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 - Python
 - NumPy
 - Pandas
+- CSV Files
 - Git
 - GitHub
 - Visual Studio Code
@@ -355,6 +388,7 @@ ai-ml-journey/
 ├── Day-19/
 ├── Day-20/
 ├── Day-21/
+├── Day-22/
 │
 └── README.md
 ```
@@ -378,6 +412,8 @@ ai-ml-journey/
 - ✅ NumPy Fundamentals
 - ✅ Advanced NumPy
 - ✅ Pandas Fundamentals
+- ✅ CSV Files
+- ✅ Dataset Exploration
 - 🔜 Data Cleaning
 - 🔜 Handling Missing Values
 - 🔜 Data Analysis
