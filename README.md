@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **22 Days Completed**
-- 📂 **22 Learning Modules**
-- 💻 **160+ Python Programs**
-- 🚀 **22 Mini Projects**
+- ✅ **23 Days Completed**
+- 📂 **23 Learning Modules**
+- 💻 **170+ Python Programs**
+- 🚀 **23 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -335,6 +335,38 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
+## ✅ Day 23 - Pandas Missing Data Handling & Data Cleaning
+
+### Detecting Missing Values
+
+- `isnull()`
+- `notnull()`
+- Counting Missing Values using `sum()`
+
+### Removing Missing Data
+
+- `dropna()`
+- Dropping Rows with Missing Values
+
+### Filling Missing Values
+
+- `fillna(0)`
+- Filling with Mean
+- Filling with Mode
+- Filling with Custom Values
+
+### Data Cleaning
+
+- Cleaning Incomplete Datasets
+- Replacing Missing Numerical Values
+- Preparing Data for Analysis
+
+### Mini Project
+
+- Student Data Cleaning System
+
+---
+
 # 🎯 Goal
 
 My goal is to become a professional **AI & Machine Learning Engineer** by:
@@ -353,6 +385,7 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 - NumPy
 - Pandas
 - CSV Files
+- Data Cleaning
 - Git
 - GitHub
 - Visual Studio Code
@@ -389,6 +422,7 @@ ai-ml-journey/
 ├── Day-20/
 ├── Day-21/
 ├── Day-22/
+├── Day-23/
 │
 └── README.md
 ```
@@ -414,13 +448,13 @@ ai-ml-journey/
 - ✅ Pandas Fundamentals
 - ✅ CSV Files
 - ✅ Dataset Exploration
-- 🔜 Data Cleaning
-- 🔜 Handling Missing Values
+- ✅ Data Cleaning
+- ✅ Handling Missing Values
 - 🔜 Data Analysis
+- 🔜 GroupBy Operations
 - 🔜 Data Visualization
 - 🔜 Matplotlib
 - 🔜 Seaborn
-
 ---
 
 ## 🤖 Machine Learning
