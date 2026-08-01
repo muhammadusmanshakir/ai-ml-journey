@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **23 Days Completed**
-- 📂 **23 Learning Modules**
-- 💻 **170+ Python Programs**
-- 🚀 **23 Mini Projects**
+- ✅ **24 Days Completed**
+- 📂 **24 Learning Modules**
+- 💻 **180+ Python Programs**
+- 🚀 **24 Mini Projects**
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -366,6 +366,33 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Student Data Cleaning System
 
 ---
+## ✅ Day 24 - Pandas DataFrame Modification
+
+### Adding & Updating Columns
+
+- Adding New Columns
+- Updating Existing Columns
+- Arithmetic Operations on Columns
+
+### Renaming Columns
+
+- `rename()`
+- `columns={}`
+
+### Removing Data
+
+- Dropping Columns using `drop()`
+- Dropping Rows using `index`
+
+### DataFrame Modification
+
+- Editing DataFrames
+- Saving Updated Data
+
+### Mini Project
+
+- Student Grade Management System
+---
 
 # 🎯 Goal
 
@@ -423,6 +450,7 @@ ai-ml-journey/
 ├── Day-21/
 ├── Day-22/
 ├── Day-23/
+├── Day-24/
 │
 └── README.md
 ```
@@ -448,10 +476,11 @@ ai-ml-journey/
 - ✅ Pandas Fundamentals
 - ✅ CSV Files
 - ✅ Dataset Exploration
-- ✅ Data Cleaning
-- ✅ Handling Missing Values
-- 🔜 Data Analysis
-- 🔜 GroupBy Operations
+- ✅ Missing Data Handling
+- ✅ DataFrame Modification
+- 🔜 Sorting & Ordering
+- 🔜 GroupBy
+- 🔜 Merge & Join
 - 🔜 Data Visualization
 - 🔜 Matplotlib
 - 🔜 Seaborn
