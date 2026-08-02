@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **24 Days Completed**
-- 📂 **24 Learning Modules**
-- 💻 **180+ Python Programs**
-- 🚀 **24 Mini Projects**
+- ✅ 25 Days Completed
+- 📂 25 Learning Modules
+- 💻 190+ Python Programs
+- 🚀 25 Mini Projects
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -394,6 +394,32 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Student Grade Management System
 ---
 
+## ✅ Day 25 - Pandas Sorting & Ranking
+
+### Sorting Data
+
+- sort_values()
+- Ascending Sorting
+- Descending Sorting
+- Sorting by Multiple Columns
+- sort_index()
+
+### Selecting Records
+
+- nlargest()
+- nsmallest()
+
+### Ranking
+
+- rank()
+- ascending=False
+- astype(int)
+
+### Mini Project
+
+- Student Ranking System
+---
+
 # 🎯 Goal
 
 My goal is to become a professional **AI & Machine Learning Engineer** by:
@@ -419,6 +445,8 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 - Virtual Environments (`venv`)
 - pip
 - JSON
+- Data Sorting
+- Ranking
 
 ---
 
@@ -451,6 +479,7 @@ ai-ml-journey/
 ├── Day-22/
 ├── Day-23/
 ├── Day-24/
+├── Day-25/
 │
 └── README.md
 ```
@@ -476,9 +505,11 @@ ai-ml-journey/
 - ✅ Pandas Fundamentals
 - ✅ CSV Files
 - ✅ Dataset Exploration
-- ✅ Missing Data Handling
 - ✅ DataFrame Modification
-- 🔜 Sorting & Ordering
+- ✅ Data Cleaning
+- ✅ Handling Missing Values
+- ✅ Data Sorting
+- ✅ Ranking Data
 - 🔜 GroupBy
 - 🔜 Merge & Join
 - 🔜 Data Visualization
@@ -578,4 +609,4 @@ If you find this repository helpful or enjoy following my learning journey, plea
 
 Your support motivates me to continue learning, building projects, and sharing my progress with the community.
 
-Happy Coding! 🚀
+Happy Coding! 🚀 
