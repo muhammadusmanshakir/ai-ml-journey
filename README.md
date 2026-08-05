@@ -8,12 +8,12 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ 25 Days Completed
-- 📂 25 Learning Modules
-- 💻 190+ Python Programs
-- 🚀 25 Mini Projects
-- 📚 Learning Every Day
-- 🔥 Building My AI/ML Portfolio on GitHub
+- ✅ **27 Days Completed**
+- 📂 **27 Learning Modules**
+- 💻 **210+ Python Programs**
+- 🚀 **27 Mini Projects**
+📚 Learning Every Day
+🔥 Building My AI/ML Portfolio on GitHub
 
 ---
 
@@ -419,6 +419,49 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 - Student Ranking System
 ---
+## ✅ Day 26 - Pandas GroupBy Operations
+
+### GroupBy Basics
+
+- Understanding `groupby()`
+- Creating Groups
+- Group-wise Data Analysis
+
+### Aggregation Functions
+
+- `sum()`
+- `mean()`
+- `count()`
+- `max()`
+- `min()`
+
+### Mini Project
+
+- Department Performance Analyzer
+---
+## ✅ Day 27 - Merging & Joining DataFrames
+
+### Combining DataFrames
+
+- `pd.merge()`
+
+### Join Types
+
+- Inner Join
+- Left Join
+- Right Join
+- Outer Join
+
+### Working with Common Keys
+
+- Joining on Common Columns
+- Handling Missing Values after Merge
+
+### Mini Project
+
+- Employee & Department Management System
+
+---
 
 # 🎯 Goal
 
@@ -439,14 +482,13 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 - Pandas
 - CSV Files
 - Data Cleaning
+- Data Analysis
 - Git
 - GitHub
 - Visual Studio Code
 - Virtual Environments (`venv`)
 - pip
 - JSON
-- Data Sorting
-- Ranking
 
 ---
 
@@ -480,6 +522,8 @@ ai-ml-journey/
 ├── Day-23/
 ├── Day-24/
 ├── Day-25/
+├── Day-26/
+├── Day-27/
 │
 └── README.md
 ```
@@ -505,18 +549,18 @@ ai-ml-journey/
 - ✅ Pandas Fundamentals
 - ✅ CSV Files
 - ✅ Dataset Exploration
-- ✅ DataFrame Modification
 - ✅ Data Cleaning
 - ✅ Handling Missing Values
-- ✅ Data Sorting
-- ✅ Ranking Data
-- 🔜 GroupBy
-- 🔜 Merge & Join
+- ✅ Modifying DataFrames
+- ✅ Sorting & Ranking
+- ✅ GroupBy Operations
+- ✅ DataFrame Merging & Joining
+- 🔜 Pivot Tables
+- 🔜 Crosstab
 - 🔜 Data Visualization
 - 🔜 Matplotlib
 - 🔜 Seaborn
 ---
-
 ## 🤖 Machine Learning
 
 - Scikit-learn
