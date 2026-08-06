@@ -8,12 +8,12 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ **27 Days Completed**
-- 📂 **27 Learning Modules**
-- 💻 **210+ Python Programs**
-- 🚀 **27 Mini Projects**
-📚 Learning Every Day
-🔥 Building My AI/ML Portfolio on GitHub
+- ✅ 28 Days Completed
+- 📂 28 Learning Modules
+- 💻 190+ Python Programs
+- 🚀 28 Mini Projects
+- 📚 Learning Every Day
+- 🔥 Building My AI/ML Portfolio on GitHub
 
 ---
 
@@ -462,6 +462,29 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Employee & Department Management System
 
 ---
+## ✅ Day 28 - Pivot Tables & Crosstab Analysis
+
+### Pivot Tables
+
+- Creating Pivot Tables
+- Using `pivot_table()`
+- `mean()`
+- `sum()`
+- `max()`
+- `min()`
+- Multiple Aggregation Functions
+- Multiple Indexes
+- `fill_value`
+
+### Crosstab
+
+- `pd.crosstab()`
+- Counting Category Frequencies
+- Department vs Gender Analysis
+
+### Mini Project
+
+- Student Performance Dashboard
 
 # 🎯 Goal
 
@@ -524,6 +547,7 @@ ai-ml-journey/
 ├── Day-25/
 ├── Day-26/
 ├── Day-27/
+├── Day-28/
 │
 └── README.md
 ```
@@ -544,22 +568,21 @@ ai-ml-journey/
 
 ## 📊 Data Science
 
-- ✅ NumPy Fundamentals
-- ✅ Advanced NumPy
-- ✅ Pandas Fundamentals
-- ✅ CSV Files
-- ✅ Dataset Exploration
-- ✅ Data Cleaning
-- ✅ Handling Missing Values
-- ✅ Modifying DataFrames
-- ✅ Sorting & Ranking
-- ✅ GroupBy Operations
-- ✅ DataFrame Merging & Joining
-- 🔜 Pivot Tables
-- 🔜 Crosstab
-- 🔜 Data Visualization
-- 🔜 Matplotlib
-- 🔜 Seaborn
+✅ NumPy Fundamentals
+✅ Advanced NumPy
+✅ Pandas Fundamentals
+✅ CSV Files
+✅ Dataset Exploration
+✅ Data Cleaning
+✅ Data Manipulation
+✅ Sorting & Ranking
+✅ GroupBy Operations
+✅ Merge & Join
+✅ Pivot Tables
+✅ Crosstab Analysis
+🔜 Data Visualization
+🔜 Matplotlib
+🔜 Seaborn
 ---
 ## 🤖 Machine Learning
 
