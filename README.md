@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ 28 Days Completed
-- 📂 28 Learning Modules
-- 💻 190+ Python Programs
-- 🚀 28 Mini Projects
+- ✅ 29 Days Completed
+- 📂 29 Learning Modules
+- 💻 200+ Python Programs
+- 🚀 29 Mini Projects
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -485,6 +485,27 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 ### Mini Project
 
 - Student Performance Dashboard
+---
+## ✅ Day 29 - Matplotlib Line Charts
+
+### Matplotlib Basics
+
+- Installing Matplotlib
+- Importing Matplotlib
+- Creating Line Charts
+- `plt.plot()`
+- `plt.show()`
+- Graph Titles
+- X-axis Labels
+- Y-axis Labels
+- Line Colors
+- Markers
+- Line Styles
+- Grid (`plt.grid()`)
+
+### Mini Project
+
+- Student Performance Visualization
 
 # 🎯 Goal
 
@@ -503,6 +524,7 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 - Python
 - NumPy
 - Pandas
+- Matplotlib
 - CSV Files
 - Data Cleaning
 - Data Analysis
@@ -512,7 +534,6 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 - Virtual Environments (`venv`)
 - pip
 - JSON
-
 ---
 
 # 📂 Repository Structure
@@ -548,6 +569,7 @@ ai-ml-journey/
 ├── Day-26/
 ├── Day-27/
 ├── Day-28/
+├── Day-29/
 │
 └── README.md
 ```
@@ -580,8 +602,12 @@ ai-ml-journey/
 - ✅ Merge & Join
 - ✅ Pivot Tables
 - ✅ Crosstab Analysis
-- 🔜 Data Visualization
-- 🔜 Matplotlib
+- ✅ Data Visualization
+- ✅ Matplotlib Line Charts
+- 🔜 Matplotlib Bar Charts
+- 🔜 Pie Charts
+- 🔜 Histograms
+- 🔜 Scatter Plots
 - 🔜 Seaborn
 ---
 ## 🤖 Machine Learning
