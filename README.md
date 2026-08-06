@@ -568,21 +568,21 @@ ai-ml-journey/
 
 ## 📊 Data Science
 
-✅ NumPy Fundamentals
-✅ Advanced NumPy
-✅ Pandas Fundamentals
-✅ CSV Files
-✅ Dataset Exploration
-✅ Data Cleaning
-✅ Data Manipulation
-✅ Sorting & Ranking
-✅ GroupBy Operations
-✅ Merge & Join
-✅ Pivot Tables
-✅ Crosstab Analysis
-🔜 Data Visualization
-🔜 Matplotlib
-🔜 Seaborn
+- ✅ NumPy Fundamentals
+- ✅ Advanced NumPy
+- ✅ Pandas Fundamentals
+- ✅ CSV Files
+- ✅ Dataset Exploration
+- ✅ Data Cleaning
+- ✅ Data Manipulation
+- ✅ Sorting & Ranking
+- ✅ GroupBy Operations
+- ✅ Merge & Join
+- ✅ Pivot Tables
+- ✅ Crosstab Analysis
+- 🔜 Data Visualization
+- 🔜 Matplotlib
+- 🔜 Seaborn
 ---
 ## 🤖 Machine Learning
 
