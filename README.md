@@ -8,10 +8,10 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ 29 Days Completed
-- 📂 29 Learning Modules
-- 💻 200+ Python Programs
-- 🚀 29 Mini Projects
+- ✅ 30 Days Completed
+- 📂 30 Learning Modules
+- 💻 210+ Python Programs
+- 🚀 30 Mini Projects
 - 📚 Learning Every Day
 - 🔥 Building My AI/ML Portfolio on GitHub
 
@@ -506,6 +506,22 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 ### Mini Project
 
 - Student Performance Visualization
+---
+## ✅ Day 30 - Matplotlib Bar Charts
+
+### Topics Covered
+
+- Introduction to Bar Charts
+- Vertical Bar Charts (`plt.bar()`)
+- Bar Colors
+- Bar Width
+- Horizontal Bar Charts (`plt.barh()`)
+- Value Labels (`plt.text()`)
+- Horizontal Grid (`plt.grid(axis="y")`)
+
+### Mini Project
+
+- Student Marks Dashboard
 
 # 🎯 Goal
 
@@ -570,6 +586,7 @@ ai-ml-journey/
 ├── Day-27/
 ├── Day-28/
 ├── Day-29/
+├── Day-30/
 │
 └── README.md
 ```
@@ -604,10 +621,11 @@ ai-ml-journey/
 - ✅ Crosstab Analysis
 - ✅ Data Visualization
 - ✅ Matplotlib Line Charts
-- 🔜 Matplotlib Bar Charts
+- ✅ Matplotlib Bar Charts
 - 🔜 Pie Charts
 - 🔜 Histograms
 - 🔜 Scatter Plots
+- 🔜 Subplots
 - 🔜 Seaborn
 ---
 ## 🤖 Machine Learning
