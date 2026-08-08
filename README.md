@@ -8,12 +8,12 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-- ✅ 30 Days Completed
-- 📂 30 Learning Modules
-- 💻 210+ Python Programs
-- 🚀 30 Mini Projects
-- 📚 Learning Every Day
-- 🔥 Building My AI/ML Portfolio on GitHub
+* ✅ 32 Days Completed
+* 📂 32 Learning Modules
+* 💻 220+ Python Programs
+* 🚀 32 Mini Projects
+* 📚 Learning Every Day
+* 🔥 Building My AI/ML Portfolio on GitHub
 
 ---
 
@@ -21,51 +21,51 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ## ✅ Day 1 - Python Basics
 
-- Variables
-- Data Types
-- Input/Output
-- Conditional Statements (`if`, `elif`, `else`)
-- Even/Odd Checker
-- Largest of Three Numbers
-- Simple Calculator
+* Variables
+* Data Types
+* Input/Output
+* Conditional Statements (`if`, `elif`, `else`)
+* Even/Odd Checker
+* Largest of Three Numbers
+* Simple Calculator
 
 ---
 
 ## ✅ Day 2 - Loops
 
-- `for` Loop
-- `while` Loop
-- `break`
-- `continue`
-- Multiplication Table
-- Sum of Numbers
-- Guess the Number Game
+* `for` Loop
+* `while` Loop
+* `break`
+* `continue`
+* Multiplication Table
+* Sum of Numbers
+* Guess the Number Game
 
 ---
 
 ## ✅ Day 3 - Functions
 
-- Creating Functions
-- Parameters
-- Return Values
-- Local Variables
-- Global Variables
-- Function-Based Calculator
+* Creating Functions
+* Parameters
+* Return Values
+* Local Variables
+* Global Variables
+* Function-Based Calculator
 
 ---
 
 ## ✅ Day 4 - Lists
 
-- Creating Lists
-- Accessing Elements
-- Modifying Lists
-- `append()`
-- `insert()`
-- `remove()`
-- `pop()`
-- `len()`
-- Looping Through Lists
-- Student Manager Mini Project
+* Creating Lists
+* Accessing Elements
+* Modifying Lists
+* `append()`
+* `insert()`
+* `remove()`
+* `pop()`
+* `len()`
+* Looping Through Lists
+* Student Manager Mini Project
 
 ---
 
@@ -73,107 +73,109 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ### Tuples
 
-- Creating Tuples
-- Tuple Methods (`count()`, `index()`)
+* Creating Tuples
+* Tuple Methods (`count()`, `index()`)
 
 ### Sets
 
-- Creating Sets
-- `add()`
-- `remove()`
+* Creating Sets
+* `add()`
+* `remove()`
 
 ### Dictionaries
 
-- Creating Dictionaries
-- Accessing Dictionary Values
-- Iterating with `.items()`
+* Creating Dictionaries
+* Accessing Dictionary Values
+* Iterating with `.items()`
 
 ### Mini Project
 
-- Student Record Manager
+* Student Record Manager
 
 ---
 
 ## ✅ Day 6 - Strings
 
-- String Introduction
-- String Indexing
-- String Slicing
-- String Methods
-  - `upper()`
-  - `lower()`
-  - `replace()`
-  - `strip()`
-  - `split()`
-- Word Counter Mini Project
-- Palindrome Checker Mini Project
+* String Introduction
+* String Indexing
+* String Slicing
+* String Methods
+
+  * `upper()`
+  * `lower()`
+  * `replace()`
+  * `strip()`
+  * `split()`
+* Word Counter Mini Project
+* Palindrome Checker Mini Project
 
 ---
 
 ## ✅ Day 7 - Object-Oriented Programming (OOP)
 
-- Classes
-- Objects
-- Attributes
-- Methods
-- Constructors (`__init__`)
-- The `self` Keyword
-- Multiple Objects
-- Student Management System (OOP Project)
+* Classes
+* Objects
+* Attributes
+* Methods
+* Constructors (`__init__`)
+* The `self` Keyword
+* Multiple Objects
+* Student Management System (OOP Project)
 
 ---
 
 ## ✅ Day 8 - File Handling
 
-- Reading Files
-- Writing Files
-- Appending Files
-- File Modes (`r`, `w`, `a`)
-- Using `with open()`
-- Reading Files Line by Line
-- `strip()` Method
-- Student File Manager Mini Project
+* Reading Files
+* Writing Files
+* Appending Files
+* File Modes (`r`, `w`, `a`)
+* Using `with open()`
+* Reading Files Line by Line
+* `strip()` Method
+* Student File Manager Mini Project
 
 ---
+
 ## ✅ Day 9 - Exception Handling
 
-- Understanding Exceptions
-- `try`
-- `except`
-- `else`
-- `finally`
-- Handling Multiple Exceptions
-- `ZeroDivisionError`
-- `ValueError`
-- Safe Calculator Mini Project
+* Understanding Exceptions
+* `try`
+* `except`
+* `else`
+* `finally`
+* Handling Multiple Exceptions
+* `ZeroDivisionError`
+* `ValueError`
+* Safe Calculator Mini Project
 
 ---
 
 ## ✅ Day 10 - Modules & Packages
 
-- Understanding Modules
-- Importing Built-in Modules
-- `import module`
-- `from module import function`
-- Module Aliases
-- Using `math`
-- Using `random`
-- Using `datetime`
-- Using `string`
-- Creating Custom Modules
-- Random Password Generator Mini Project
+* Understanding Modules
+* Importing Built-in Modules
+* `import module`
+* `from module import function`
+* Module Aliases
+* Using `math`
+* Using `random`
+* Using `datetime`
+* Using `string`
+* Creating Custom Modules
+* Random Password Generator Mini Project
 
 ---
 
 ## ✅ Day 11 - Lambda Functions & Functional Programming
 
-- Lambda Functions
-- `map()`
-- `filter()`
-- Sorting with `lambda`
-- `sorted()`
-- `reverse=True`
-- Student Grade Analyzer Mini Project
+* Lambda Functions
+* `map()`
+* `filter()`
+* Sorting with `lambda`
+* `sorted()`
+* `reverse=True`
+* Student Grade Analyzer Mini Project
 
 ---
 
@@ -181,157 +183,158 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ### List Comprehensions
 
-- Basic List Comprehensions
-- Conditional List Comprehensions
-- `if-else`
-- Nested List Comprehensions
+* Basic List Comprehensions
+* Conditional List Comprehensions
+* `if-else`
+* Nested List Comprehensions
 
 ### Dictionary Comprehensions
 
-- Creating Dictionaries
+* Creating Dictionaries
 
 ### Set Comprehensions
 
-- Creating Sets
-- Removing Duplicates
+* Creating Sets
+* Removing Duplicates
 
 ### Mini Project
 
-- Student Data Filter
+* Student Data Filter
 
 ---
 
 ## ✅ Day 13 - Iterators & Generators
 
-- Iterators
-- `iter()`
-- `next()`
-- `StopIteration`
-- Generator Functions
-- `yield`
-- Generator Expressions
-- Memory Efficient Iteration
-- Even Number Generator Mini Project
+* Iterators
+* `iter()`
+* `next()`
+* `StopIteration`
+* Generator Functions
+* `yield`
+* Generator Expressions
+* Memory Efficient Iteration
+* Even Number Generator Mini Project
 
 ---
 
 ## ✅ Day 14 - Decorators
 
-- Functions as Objects
-- Nested Functions
-- Returning Functions
-- Decorators
-- `@decorator`
-- Decorators with Arguments
-- Execution Timer Mini Project
+* Functions as Objects
+* Nested Functions
+* Returning Functions
+* Decorators
+* `@decorator`
+* Decorators with Arguments
+* Execution Timer Mini Project
 
 ---
 
 ## ✅ Day 15 - Virtual Environments & Package Management
 
-- Virtual Environments (`venv`)
-- Activating Virtual Environments
-- Python Packages
-- Installing Packages using `pip`
-- `requirements.txt`
-- Package Management
-- Package Explorer Mini Project
+* Virtual Environments (`venv`)
+* Activating Virtual Environments
+* Python Packages
+* Installing Packages using `pip`
+* `requirements.txt`
+* Package Management
+* Package Explorer Mini Project
 
 ---
 
 ## ✅ Day 16 - Regular Expressions (Regex)
 
-- Introduction to Regular Expressions
-- `re.search()`
-- `re.match()`
-- `re.findall()`
-- `re.finditer()`
-- `re.sub()`
-- `re.split()`
-- Regex Metacharacters
-  - `\d`, `\D`
-  - `\w`, `\W`
-  - `\s`, `\S`
-  - `^`, `$`
-- `re.IGNORECASE`
-- User Information Validator Mini Project
-- JSON Data Saving
+* Introduction to Regular Expressions
+* `re.search()`
+* `re.match()`
+* `re.findall()`
+* `re.finditer()`
+* `re.sub()`
+* `re.split()`
+* Regex Metacharacters
+
+  * `\d`, `\D`
+  * `\w`, `\W`
+  * `\s`, `\S`
+  * `^`, `$`
+* `re.IGNORECASE`
+* User Information Validator Mini Project
+* JSON Data Saving
 
 ---
+
 ## ✅ Day 21 - Pandas Fundamentals & Data Selection
 
 ### Pandas Basics
 
-- Installing Pandas
-- Importing Pandas
-- Checking Pandas Version
+* Installing Pandas
+* Importing Pandas
+* Checking Pandas Version
 
 ### Series
 
-- Creating a Series
-- Series Index
-- Series Values
+* Creating a Series
+* Series Index
+* Series Values
 
 ### DataFrames
 
-- Creating DataFrames
-- Understanding Rows & Columns
-- Viewing Data
-- `shape`
-- `columns`
-- `index`
-- `dtypes`
+* Creating DataFrames
+* Understanding Rows & Columns
+* Viewing Data
+* `shape`
+* `columns`
+* `index`
+* `dtypes`
 
 ### Selecting Data
 
-- Single Column Selection
-- Multiple Column Selection
-- Row Selection using `iloc`
-- Row Selection using `loc`
-- Selecting Specific Rows & Columns
+* Single Column Selection
+* Multiple Column Selection
+* Row Selection using `iloc`
+* Row Selection using `loc`
+* Selecting Specific Rows & Columns
 
 ### Filtering Data
 
-- Filter using Single Condition
-- Filter using Multiple Conditions
-- Boolean Indexing
+* Filter using Single Condition
+* Filter using Multiple Conditions
+* Boolean Indexing
 
-### Mini Project
+### Mini Projects
 
-- Student Data Manager
-- Student Performance Filter
+* Student Data Manager
+* Student Performance Filter
 
----
 ---
 
 ## ✅ Day 22 - Pandas CSV Files & Dataset Exploration
 
 ### Reading & Writing CSV Files
 
-- Reading CSV Files using `pd.read_csv()`
-- Writing CSV Files using `to_csv()`
-- Saving DataFrames to CSV
-- Loading Existing CSV Files
+* Reading CSV Files using `pd.read_csv()`
+* Writing CSV Files using `to_csv()`
+* Saving DataFrames to CSV
+* Loading Existing CSV Files
 
 ### Exploring Data
 
-- `head()`
-- `tail()`
-- `sample()`
-- `info()`
-- `describe()`
+* `head()`
+* `tail()`
+* `sample()`
+* `info()`
+* `describe()`
 
 ### Understanding Dataset Information
 
-- Number of Rows & Columns
-- Data Types
-- Memory Usage
-- Non-Null Values
-- Statistical Summary
+* Number of Rows & Columns
+* Data Types
+* Memory Usage
+* Non-Null Values
+* Statistical Summary
 
 ### Mini Project
 
-- Student CSV Analyzer
+* Student CSV Analyzer
 
 ---
 
@@ -339,217 +342,285 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ### Detecting Missing Values
 
-- `isnull()`
-- `notnull()`
-- Counting Missing Values using `sum()`
+* `isnull()`
+* `notnull()`
+* Counting Missing Values using `sum()`
 
 ### Removing Missing Data
 
-- `dropna()`
-- Dropping Rows with Missing Values
+* `dropna()`
+* Dropping Rows with Missing Values
 
 ### Filling Missing Values
 
-- `fillna(0)`
-- Filling with Mean
-- Filling with Mode
-- Filling with Custom Values
+* `fillna(0)`
+* Filling with Mean
+* Filling with Mode
+* Filling with Custom Values
 
 ### Data Cleaning
 
-- Cleaning Incomplete Datasets
-- Replacing Missing Numerical Values
-- Preparing Data for Analysis
+* Cleaning Incomplete Datasets
+* Replacing Missing Numerical Values
+* Preparing Data for Analysis
 
 ### Mini Project
 
-- Student Data Cleaning System
+* Student Data Cleaning System
 
 ---
+
 ## ✅ Day 24 - Pandas DataFrame Modification
 
 ### Adding & Updating Columns
 
-- Adding New Columns
-- Updating Existing Columns
-- Arithmetic Operations on Columns
+* Adding New Columns
+* Updating Existing Columns
+* Arithmetic Operations on Columns
 
 ### Renaming Columns
 
-- `rename()`
-- `columns={}`
+* `rename()`
+* `columns={}`
 
 ### Removing Data
 
-- Dropping Columns using `drop()`
-- Dropping Rows using `index`
+* Dropping Columns using `drop()`
+* Dropping Rows using `index`
 
 ### DataFrame Modification
 
-- Editing DataFrames
-- Saving Updated Data
+* Editing DataFrames
+* Saving Updated Data
 
 ### Mini Project
 
-- Student Grade Management System
+* Student Grade Management System
+
 ---
 
 ## ✅ Day 25 - Pandas Sorting & Ranking
 
 ### Sorting Data
 
-- sort_values()
-- Ascending Sorting
-- Descending Sorting
-- Sorting by Multiple Columns
-- sort_index()
+* `sort_values()`
+* Ascending Sorting
+* Descending Sorting
+* Sorting by Multiple Columns
+* `sort_index()`
 
 ### Selecting Records
 
-- nlargest()
-- nsmallest()
+* `nlargest()`
+* `nsmallest()`
 
 ### Ranking
 
-- rank()
-- ascending=False
-- astype(int)
+* `rank()`
+* `ascending=False`
+* `astype(int)`
 
 ### Mini Project
 
-- Student Ranking System
+* Student Ranking System
+
 ---
+
 ## ✅ Day 26 - Pandas GroupBy Operations
 
 ### GroupBy Basics
 
-- Understanding `groupby()`
-- Creating Groups
-- Group-wise Data Analysis
+* Understanding `groupby()`
+* Creating Groups
+* Group-wise Data Analysis
 
 ### Aggregation Functions
 
-- `sum()`
-- `mean()`
-- `count()`
-- `max()`
-- `min()`
+* `sum()`
+* `mean()`
+* `count()`
+* `max()`
+* `min()`
 
 ### Mini Project
 
-- Department Performance Analyzer
+* Department Performance Analyzer
+
 ---
+
 ## ✅ Day 27 - Merging & Joining DataFrames
 
 ### Combining DataFrames
 
-- `pd.merge()`
+* `pd.merge()`
 
 ### Join Types
 
-- Inner Join
-- Left Join
-- Right Join
-- Outer Join
+* Inner Join
+* Left Join
+* Right Join
+* Outer Join
 
 ### Working with Common Keys
 
-- Joining on Common Columns
-- Handling Missing Values after Merge
+* Joining on Common Columns
+* Handling Missing Values after Merge
 
 ### Mini Project
 
-- Employee & Department Management System
+* Employee & Department Management System
 
 ---
+
 ## ✅ Day 28 - Pivot Tables & Crosstab Analysis
 
 ### Pivot Tables
 
-- Creating Pivot Tables
-- Using `pivot_table()`
-- `mean()`
-- `sum()`
-- `max()`
-- `min()`
-- Multiple Aggregation Functions
-- Multiple Indexes
-- `fill_value`
+* Creating Pivot Tables
+* Using `pivot_table()`
+* `mean()`
+* `sum()`
+* `max()`
+* `min()`
+* Multiple Aggregation Functions
+* Multiple Indexes
+* `fill_value`
 
 ### Crosstab
 
-- `pd.crosstab()`
-- Counting Category Frequencies
-- Department vs Gender Analysis
+* `pd.crosstab()`
+* Counting Category Frequencies
+* Department vs Gender Analysis
 
 ### Mini Project
 
-- Student Performance Dashboard
+* Student Performance Dashboard
+
 ---
+
 ## ✅ Day 29 - Matplotlib Line Charts
 
 ### Matplotlib Basics
 
-- Installing Matplotlib
-- Importing Matplotlib
-- Creating Line Charts
-- `plt.plot()`
-- `plt.show()`
-- Graph Titles
-- X-axis Labels
-- Y-axis Labels
-- Line Colors
-- Markers
-- Line Styles
-- Grid (`plt.grid()`)
+* Installing Matplotlib
+* Importing Matplotlib
+* Creating Line Charts
+* `plt.plot()`
+* `plt.show()`
+* Graph Titles
+* X-axis Labels
+* Y-axis Labels
+* Line Colors
+* Markers
+* Line Styles
+* Grid (`plt.grid()`)
 
 ### Mini Project
 
-- Student Performance Visualization
+* Student Performance Visualization
+
 ---
+
 ## ✅ Day 30 - Matplotlib Bar Charts
 
 ### Topics Covered
 
-- Introduction to Bar Charts
-- Vertical Bar Charts (`plt.bar()`)
-- Bar Colors
-- Bar Width
-- Horizontal Bar Charts (`plt.barh()`)
-- Value Labels (`plt.text()`)
-- Horizontal Grid (`plt.grid(axis="y")`)
+* Introduction to Bar Charts
+* Vertical Bar Charts (`plt.bar()`)
+* Bar Colors
+* Bar Width
+* Horizontal Bar Charts (`plt.barh()`)
+* Value Labels (`plt.text()`)
+* Horizontal Grid (`plt.grid(axis="y")`)
 
 ### Mini Project
 
-- Student Marks Dashboard
+* Student Marks Dashboard
+
+---
+
+## ✅ Day 31 - Matplotlib Pie Charts
+
+### Pie Chart Basics
+
+* Creating Pie Charts
+* `plt.pie()`
+* Pie Chart Labels
+* Percentages using `autopct=`
+* Custom Colors using `colors=`
+
+### Pie Chart Customization
+
+* Exploding Slices using `explode=`
+* Rotating Pie Charts using `startangle=`
+* Adding Shadows using `shadow=True`
+* Making Pie Charts Circular using `plt.axis("equal")`
+
+### Mini Project
+
+* Student Department Distribution
+
+---
+
+## ✅ Day 32 - Matplotlib Histograms
+
+### Histogram Basics
+
+* Introduction to Histograms
+* Creating Histograms using `plt.hist()`
+* Understanding Bins
+* Changing Number of Bins using `bins=`
+
+### Histogram Customization
+
+* Histogram Colors using `color=`
+* Bin Borders using `edgecolor=`
+* Transparency using `alpha=`
+* Grid Lines using `plt.grid(axis="y")`
+* Normalized Density using `density=True`
+
+### Data Visualization Concepts
+
+* Numerical Data Distribution
+* Histogram vs Bar Chart
+* Grouping Numerical Data into Ranges
+
+### Mini Project
+
+* Student Marks Distribution
+
+
+---
 
 # 🎯 Goal
 
 My goal is to become a professional **AI & Machine Learning Engineer** by:
 
-- Learning consistently every day
-- Building real-world projects
-- Mastering Python, Data Science & Machine Learning
-- Creating an impressive GitHub portfolio
-- Preparing for AI internships and software engineering roles
+* Learning consistently every day
+* Building real-world projects
+* Mastering Python, Data Science & Machine Learning
+* Creating an impressive GitHub portfolio
+* Preparing for AI internships and software engineering roles
 
 ---
 
 # 🛠️ Technologies & Tools
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- CSV Files
-- Data Cleaning
-- Data Analysis
-- Git
-- GitHub
-- Visual Studio Code
-- Virtual Environments (`venv`)
-- pip
-- JSON
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* CSV Files
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+* Git
+* GitHub
+* Visual Studio Code
+* Virtual Environments (`venv`)
+* pip
+* JSON
+
 ---
 
 # 📂 Repository Structure
@@ -587,6 +658,8 @@ ai-ml-journey/
 ├── Day-28/
 ├── Day-29/
 ├── Day-30/
+├── Day-31/
+├── Day-32/
 │
 └── README.md
 ```
@@ -597,83 +670,85 @@ ai-ml-journey/
 
 ## 🐍 Python
 
-- ✅ Python Fundamentals
-- ✅ Object-Oriented Programming
-- ✅ File Handling
-- ✅ Exception Handling
-- ✅ Regular Expressions
+* ✅ Python Fundamentals
+* ✅ Object-Oriented Programming
+* ✅ File Handling
+* ✅ Exception Handling
+* ✅ Regular Expressions
 
 ---
 
 ## 📊 Data Science
 
-- ✅ NumPy Fundamentals
-- ✅ Advanced NumPy
-- ✅ Pandas Fundamentals
-- ✅ CSV Files
-- ✅ Dataset Exploration
-- ✅ Data Cleaning
-- ✅ Data Manipulation
-- ✅ Sorting & Ranking
-- ✅ GroupBy Operations
-- ✅ Merge & Join
-- ✅ Pivot Tables
-- ✅ Crosstab Analysis
-- ✅ Data Visualization
-- ✅ Matplotlib Line Charts
-- ✅ Matplotlib Bar Charts
-- 🔜 Pie Charts
-- 🔜 Histograms
-- 🔜 Scatter Plots
-- 🔜 Subplots
-- 🔜 Seaborn
+* ✅ NumPy Fundamentals
+* ✅ Advanced NumPy
+* ✅ Pandas Fundamentals
+* ✅ CSV Files
+* ✅ Dataset Exploration
+* ✅ Data Cleaning
+* ✅ Data Manipulation
+* ✅ Sorting & Ranking
+* ✅ GroupBy Operations
+* ✅ Merge & Join
+* ✅ Pivot Tables
+* ✅ Crosstab Analysis
+* ✅ Data Visualization
+* ✅ Matplotlib Line Charts
+* ✅ Matplotlib Bar Charts
+* ✅ Matplotlib Pie Charts
+* ✅ Matplotlib Histograms
+* 🔜 Matplotlib Scatter Plots
+* 🔜 Matplotlib Subplots
+* 🔜 Seaborn
+
 ---
+
 ## 🤖 Machine Learning
 
-- Scikit-learn
-- Data Preprocessing
-- Feature Engineering
-- Supervised Learning
-- Unsupervised Learning
-- Model Evaluation
-- Model Selection
-- Cross Validation
-- Pipelines
+* Scikit-learn
+* Data Preprocessing
+* Feature Engineering
+* Supervised Learning
+* Unsupervised Learning
+* Model Evaluation
+* Model Selection
+* Cross Validation
+* Pipelines
 
 ---
 
 ## 🧠 Deep Learning
 
-- Neural Networks
-- TensorFlow
-- PyTorch
-- CNN
-- RNN
-- LSTM
+* Neural Networks
+* TensorFlow
+* PyTorch
+* CNN
+* RNN
+* LSTM
 
 ---
 
 ## 🚀 Artificial Intelligence
 
-- Natural Language Processing (NLP)
-- Computer Vision
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
+* Natural Language Processing (NLP)
+* Computer Vision
+* Generative AI
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
 
 ---
 
 ## ☁️ Deployment & MLOps
 
-- Flask
-- FastAPI
-- Streamlit
-- Docker
-- REST APIs
-- Model Deployment
-- GitHub Actions
-- MLflow
+* Flask
+* FastAPI
+* Streamlit
+* Docker
+* REST APIs
+* Model Deployment
+* GitHub Actions
+* MLflow
 
 ---
 
@@ -681,12 +756,12 @@ ai-ml-journey/
 
 I use this repository to:
 
-- 📅 Learn every day
-- 💻 Practice Python by writing code
-- 🚀 Build mini projects
-- 📂 Track my progress publicly
-- 📈 Improve my software engineering skills
-- 🤖 Build a strong AI & ML portfolio
+* 📅 Learn every day
+* 💻 Practice Python by writing code
+* 🚀 Build mini projects
+* 📂 Track my progress publicly
+* 📈 Improve my software engineering skills
+* 🤖 Build a strong AI & ML portfolio
 
 ---
 
@@ -720,4 +795,4 @@ If you find this repository helpful or enjoy following my learning journey, plea
 
 Your support motivates me to continue learning, building projects, and sharing my progress with the community.
 
-Happy Coding! 🚀 
+Happy Coding! 🚀
