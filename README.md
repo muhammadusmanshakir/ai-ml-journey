@@ -8,12 +8,12 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 # 📈 Current Progress
 
-* ✅ 34 Days Completed
-* 📂 34 Learning Modules
-* 💻 240+ Python Programs
-* 🚀 34 Mini Projects
-* 📚 Learning Every Day
-* 🔥 Building My AI/ML Portfolio on GitHub
+- ✅ 35 Days Completed
+- 📂 35 Learning Modules
+- 💻 250+ Python Programs
+- 🚀 35 Mini Projects
+- 📚 Learning Every Day
+- 🔥 Building My AI/ML Portfolio on GitHub
 
 ---
 
@@ -627,36 +627,64 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 - Student Performance Trend
 - CS vs AI Performance Comparison
+
+---
+
+## ✅ Day 35 - Seaborn Introduction
+
+### Topics Covered
+
+- Introduction to Seaborn
+- Seaborn vs Matplotlib
+- Installing Seaborn
+- Importing Seaborn
+- Seaborn Alias (`sns`)
+- Creating Basic Seaborn Line Plots
+- `sns.lineplot()`
+- `data=`
+- `x=`
+- `y=`
+- Working with Pandas DataFrames
+- Seaborn Themes
+- `sns.set_theme()`
+- Combining Seaborn with Matplotlib
+- Statistical Data Visualization
+
+### Mini Project
+
+- Student Performance Visualization
+
 ---
 
 # 🎯 Goal
 
 My goal is to become a professional **AI & Machine Learning Engineer** by:
 
-* Learning consistently every day
-* Building real-world projects
-* Mastering Python, Data Science & Machine Learning
-* Creating an impressive GitHub portfolio
-* Preparing for AI internships and software engineering roles
+- Learning consistently every day
+- Building real-world projects
+- Mastering Python, Data Science & Machine Learning
+- Creating an impressive GitHub portfolio
+- Preparing for AI internships and software engineering roles
 
 ---
 
 # 🛠️ Technologies & Tools
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* CSV Files
-* Data Cleaning
-* Data Analysis
-* Data Visualization
-* Git
-* GitHub
-* Visual Studio Code
-* Virtual Environments (`venv`)
-* pip
-* JSON
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- CSV Files
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Git
+- GitHub
+- Visual Studio Code
+- Virtual Environments (`venv`)
+- pip
+- JSON
 
 ---
 
@@ -699,9 +727,9 @@ ai-ml-journey/
 ├── Day-32/
 ├── Day-33/
 ├── Day-34/
+├── Day-35/
 │
 └── README.md
-```
 
 ---
 
@@ -709,86 +737,37 @@ ai-ml-journey/
 
 ## 🐍 Python
 
-* ✅ Python Fundamentals
-* ✅ Object-Oriented Programming
-* ✅ File Handling
-* ✅ Exception Handling
-* ✅ Regular Expressions
+* ✅ Python Fundamentals* ✅ Object-Oriented Programming* ✅ File Handling* ✅ Exception Handling* ✅ Regular Expressions
 
 ---
 
 ## 📊 Data Science
 
-* ✅ NumPy Fundamentals
-* ✅ Advanced NumPy
-* ✅ Pandas Fundamentals
-* ✅ CSV Files
-* ✅ Dataset Exploration
-* ✅ Data Cleaning
-* ✅ Data Manipulation
-* ✅ Sorting & Ranking
-* ✅ GroupBy Operations
-* ✅ Merge & Join
-* ✅ Pivot Tables
-* ✅ Crosstab Analysis
-* ✅ Data Visualization
-* ✅ Matplotlib Line Charts
-* ✅ Matplotlib Bar Charts
-* ✅ Matplotlib Pie Charts
-* ✅ Matplotlib Histograms
-* ✅ Matplotlib Scatter Plots
-* ✅ Matplotlib Line Plots
-* 🔜 Subplots
-* 🔜 Seaborn
+* ✅ NumPy Fundamentals* ✅ Advanced NumPy* ✅ Pandas Fundamentals* ✅ CSV Files* ✅ Dataset Exploration* ✅ Data Cleaning* ✅ Data Manipulation* ✅ Sorting & Ranking* ✅ GroupBy Operations* ✅ Merge & Join* ✅ Pivot Tables* ✅ Crosstab Analysis* ✅ Data Visualization* ✅ Matplotlib Line Charts* ✅ Matplotlib Bar Charts* ✅ Matplotlib Pie Charts* ✅ Matplotlib Histograms* ✅ Matplotlib Scatter Plots* ✅ Matplotlib Line Plots* 🔜 Subplots* 🔜 Seaborn
 
 ---
 
 ## 🤖 Machine Learning
 
-* Scikit-learn
-* Data Preprocessing
-* Feature Engineering
-* Supervised Learning
-* Unsupervised Learning
-* Model Evaluation
-* Model Selection
-* Cross Validation
-* Pipelines
+* Scikit-learn* Data Preprocessing* Feature Engineering* Supervised Learning* Unsupervised Learning* Model Evaluation* Model Selection* Cross Validation* Pipelines
 
 ---
 
 ## 🧠 Deep Learning
 
-* Neural Networks
-* TensorFlow
-* PyTorch
-* CNN
-* RNN
-* LSTM
+* Neural Networks* TensorFlow* PyTorch* CNN* RNN* LSTM
 
 ---
 
 ## 🚀 Artificial Intelligence
 
-* Natural Language Processing (NLP)
-* Computer Vision
-* Generative AI
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
+* Natural Language Processing (NLP)* Computer Vision* Generative AI* Large Language Models (LLMs)* Retrieval-Augmented Generation (RAG)* AI Agents
 
 ---
 
 ## ☁️ Deployment & MLOps
 
-* Flask
-* FastAPI
-* Streamlit
-* Docker
-* REST APIs
-* Model Deployment
-* GitHub Actions
-* MLflow
+* Flask* FastAPI* Streamlit* Docker* REST APIs* Model Deployment* GitHub Actions* MLflow
 
 ---
 
@@ -796,12 +775,7 @@ ai-ml-journey/
 
 I use this repository to:
 
-* 📅 Learn every day
-* 💻 Practice Python by writing code
-* 🚀 Build mini projects
-* 📂 Track my progress publicly
-* 📈 Improve my software engineering skills
-* 🤖 Build a strong AI & ML portfolio
+* 📅 Learn every day* 💻 Practice Python by writing code* 🚀 Build mini projects* 📂 Track my progress publicly* 📈 Improve my software engineering skills* 🤖 Build a strong AI & ML portfolio
 
 ---
 
