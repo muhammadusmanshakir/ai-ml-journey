@@ -294,31 +294,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 21 - Pandas Basics, Data Selection & Filtering
-
-- Pandas Basics
-- Data Selection
-- Selecting Columns
-- Selecting Multiple Columns
-- Selecting Rows
-- `loc[]`
-- `iloc[]`
-- Conditional Filtering
-- Multiple Conditions
-- Student Filtering System
-
----
-
-## ✅ Day 22 - Pandas CSV Operations & Dataset Exploration
-
-### CSV Operations
-
-- Reading CSV Files
-- `pd.read_csv()`
-- Writing CSV Files
-- `to_csv()`
-
-### Dataset Exploration
+## ✅ Day 21 - Pandas Dataset Exploration
 
 - `head()`
 - `tail()`
@@ -330,14 +306,11 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Memory Usage
 - Non-Null Values
 - Statistical Summary
-
-### Mini Project
-
 - Student CSV Analyzer
 
 ---
 
-## ✅ Day 23 - Pandas Missing Data Handling & Data Cleaning
+## ✅ Day 22 - Pandas Missing Data Handling & Data Cleaning
 
 ### Detecting Missing Values
 
@@ -369,7 +342,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 24 - Pandas DataFrame Modification
+## ✅ Day 23 - Pandas DataFrame Modification
 
 ### Adding & Updating Columns
 
@@ -398,7 +371,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 25 - Pandas Sorting & Ranking Operations
+## ✅ Day 24 - Pandas Sorting & Ranking
 
 ### Sorting Data
 
@@ -425,7 +398,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 26 - Pandas GroupBy Operations
+## ✅ Day 25 - Pandas GroupBy Operations
 
 ### GroupBy Basics
 
@@ -447,7 +420,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 27 - Pandas Merge & Joins
+## ✅ Day 26 - Merging & Joining DataFrames
 
 ### Combining DataFrames
 
@@ -471,7 +444,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 28 - Pivot Tables & Crosstab Analysis
+## ✅ Day 27 - Pivot Tables & Crosstab Analysis
 
 ### Pivot Tables
 
@@ -497,7 +470,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 29 - Matplotlib Line Charts & Visualization
+## ✅ Day 28 - Matplotlib Line Charts
 
 ### Matplotlib Basics
 
@@ -520,7 +493,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 30 - Matplotlib Bar Charts
+## ✅ Day 29 - Matplotlib Bar Charts
 
 ### Topics Covered
 
@@ -540,7 +513,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 31 - Matplotlib Pie Charts
+## ✅ Day 30 - Matplotlib Pie Charts
 
 ### Topics Covered
 
@@ -561,7 +534,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 32 - Matplotlib Histograms
+## ✅ Day 31 - Matplotlib Histograms
 
 ### Topics Covered
 
@@ -582,7 +555,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 33 - Matplotlib Scatter Plots
+## ✅ Day 32 - Matplotlib Scatter Plots
 
 ### Topics Covered
 
@@ -605,7 +578,7 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 
 ---
 
-## ✅ Day 34 - Matplotlib Line Plots
+## ✅ Day 33 - Matplotlib Line Plots
 
 ### Topics Covered
 
@@ -622,6 +595,30 @@ Welcome to my **AI & Machine Learning Journey!** This repository documents my da
 - Comparing Multiple Trends
 - Visualizing Trends and Changes Across Tests
 - Understanding Trends in Ordered Data
+
+### Mini Project
+
+- Student Performance Trend
+- CS vs AI Performance Comparison
+
+---
+
+## ✅ Day 34 - Matplotlib Advanced Line Plotting
+
+### Topics Covered
+
+- Creating Multiple Lines
+- Comparing Multiple Groups
+- Line Colors
+- Line Width
+- Line Styles
+- Markers
+- Grid Lines
+- Labels
+- Legends
+- Comparing Trends
+- Visualizing Performance Changes
+- Comparing Multiple Subjects
 
 ### Mini Project
 
@@ -690,9 +687,8 @@ My goal is to become a professional **AI & Machine Learning Engineer** by:
 
 # 📂 Repository Structure
 
-```text
 ai-ml-journey/
-│
+
 ├── Day-01/
 ├── Day-02/
 ├── Day-03/
@@ -728,7 +724,6 @@ ai-ml-journey/
 ├── Day-33/
 ├── Day-34/
 ├── Day-35/
-│
 └── README.md
 
 ---
@@ -737,37 +732,87 @@ ai-ml-journey/
 
 ## 🐍 Python
 
-* ✅ Python Fundamentals* ✅ Object-Oriented Programming* ✅ File Handling* ✅ Exception Handling* ✅ Regular Expressions
+- ✅ Python Fundamentals
+- ✅ Object-Oriented Programming
+- ✅ File Handling
+- ✅ Exception Handling
+- ✅ Regular Expressions
 
 ---
 
 ## 📊 Data Science
 
-* ✅ NumPy Fundamentals* ✅ Advanced NumPy* ✅ Pandas Fundamentals* ✅ CSV Files* ✅ Dataset Exploration* ✅ Data Cleaning* ✅ Data Manipulation* ✅ Sorting & Ranking* ✅ GroupBy Operations* ✅ Merge & Join* ✅ Pivot Tables* ✅ Crosstab Analysis* ✅ Data Visualization* ✅ Matplotlib Line Charts* ✅ Matplotlib Bar Charts* ✅ Matplotlib Pie Charts* ✅ Matplotlib Histograms* ✅ Matplotlib Scatter Plots* ✅ Matplotlib Line Plots* 🔜 Subplots* 🔜 Seaborn
+- ✅ NumPy Fundamentals
+- ✅ Advanced NumPy
+- ✅ Pandas Fundamentals
+- ✅ CSV Files
+- ✅ Dataset Exploration
+- ✅ Data Cleaning
+- ✅ Data Manipulation
+- ✅ Sorting & Ranking
+- ✅ GroupBy Operations
+- ✅ Merge & Join
+- ✅ Pivot Tables
+- ✅ Crosstab Analysis
+- ✅ Data Visualization
+- ✅ Matplotlib Line Charts
+- ✅ Matplotlib Bar Charts
+- ✅ Matplotlib Pie Charts
+- ✅ Matplotlib Histograms
+- ✅ Matplotlib Scatter Plots
+- ✅ Matplotlib Line Plots
+- ✅ Seaborn Introduction
+- 🔜 Subplots
+- 🔜 Advanced Seaborn Visualization
 
 ---
 
 ## 🤖 Machine Learning
 
-* Scikit-learn* Data Preprocessing* Feature Engineering* Supervised Learning* Unsupervised Learning* Model Evaluation* Model Selection* Cross Validation* Pipelines
+- 🔜 Scikit-learn
+- 🔜 Data Preprocessing
+- 🔜 Feature Engineering
+- 🔜 Supervised Learning
+- 🔜 Unsupervised Learning
+- 🔜 Model Evaluation
+- 🔜 Model Selection
+- 🔜 Cross Validation
+- 🔜 Pipelines
 
 ---
 
 ## 🧠 Deep Learning
 
-* Neural Networks* TensorFlow* PyTorch* CNN* RNN* LSTM
+- 🔜 Neural Networks
+- 🔜 TensorFlow
+- 🔜 PyTorch
+- 🔜 CNN
+- 🔜 RNN
+- 🔜 LSTM
 
 ---
 
 ## 🚀 Artificial Intelligence
 
-* Natural Language Processing (NLP)* Computer Vision* Generative AI* Large Language Models (LLMs)* Retrieval-Augmented Generation (RAG)* AI Agents
+- 🔜 Natural Language Processing (NLP)
+- 🔜 Computer Vision
+- 🔜 Generative AI
+- 🔜 Large Language Models (LLMs)
+- 🔜 Retrieval-Augmented Generation (RAG)
+- 🔜 AI Agents
 
 ---
 
 ## ☁️ Deployment & MLOps
 
-* Flask* FastAPI* Streamlit* Docker* REST APIs* Model Deployment* GitHub Actions* MLflow
+- 🔜 Flask
+- 🔜 FastAPI
+- 🔜 Streamlit
+- 🔜 Docker
+- 🔜 REST APIs
+- 🔜 Model Deployment
+- 🔜 GitHub Actions
+- 🔜 MLflow
 
 ---
 
@@ -775,7 +820,12 @@ ai-ml-journey/
 
 I use this repository to:
 
-* 📅 Learn every day* 💻 Practice Python by writing code* 🚀 Build mini projects* 📂 Track my progress publicly* 📈 Improve my software engineering skills* 🤖 Build a strong AI & ML portfolio
+- 📅 Learn every day
+- 💻 Practice Python by writing code
+- 🚀 Build mini projects
+- 📂 Track my progress publicly
+- 📈 Improve my software engineering skills
+- 🤖 Build a strong AI & ML portfolio
 
 ---
 
@@ -809,4 +859,4 @@ If you find this repository helpful or enjoy following my learning journey, plea
 
 Your support motivates me to continue learning, building projects, and sharing my progress with the community.
 
-Happy Coding! 🚀
+**Happy Coding! 🚀**
