@@ -1,29 +1,20 @@
-# 🚀 AI & Machine Learning Journey
+# AI & ML Journey 🚀
 
-Welcome to my **AI & Machine Learning Journey** 🚀
+Hi! I'm **Muhammad Usman Shakir**.
 
-This repository documents my daily learning, practice, experiments, projects, and progress as I work toward becoming a professional **AI & Machine Learning Engineer**.
-
-The goal is to learn consistently, practice concepts through coding, build projects, and gradually move from Python fundamentals to Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, and advanced AI.
+Welcome to my **AI & Machine Learning Journey!** This repository documents my daily learning progress as I work toward becoming a professional **AI & Machine Learning Engineer**.
 
 ---
 
-# 👨‍💻 About Me
+# 📈 Current Progress
 
-I am a **Software Engineering student** with a strong interest in:
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Computer Vision
-- Deep Learning
-- Software Engineering
-
-I am building this repository as a public record of my learning journey and practical development.
-
-My approach is simple:
-
-> **Learn → Practice → Build → Document → Improve**
+- ✅ **40 Days Completed**
+- 📂 **40 Learning Modules**
+- 🚀 **40 Mini Projects / Practical Exercises**
+- 📚 Learning Every Day
+- 💻 Building Practical Python & Data Science Skills
+- 🔥 Building My AI/ML Portfolio on GitHub
+- 🎯 Currently Learning **Seaborn & Exploratory Data Analysis (EDA)**
 
 ---
 
@@ -32,51 +23,32 @@ My approach is simple:
 My goal is to become a professional **AI & Machine Learning Engineer** by:
 
 - Learning consistently every day
-- Strengthening Python programming
-- Building strong Data Science foundations
-- Learning Machine Learning algorithms
-- Building real-world AI projects
-- Practicing with real datasets
+- Building real-world projects
+- Mastering Python, Data Science & Machine Learning
+- Developing strong problem-solving skills
 - Creating an impressive GitHub portfolio
-- Improving problem-solving skills
-- Learning modern AI technologies
-- Preparing for AI/ML internships and professional roles
+- Preparing for AI/ML internships and software engineering roles
+- Gradually moving from beginner concepts to advanced AI systems
 
 ---
 
-# 🧠 Learning Philosophy
+# 👨‍💻 About Me
 
-I believe that learning AI and Machine Learning is not only about watching tutorials or reading theory.
+I am **Muhammad Usman Shakir**, a **BS Software Engineering student at PUCIT** and an aspiring **AI & Machine Learning Engineer**.
 
-My learning process is based on:
+I started this repository to document my learning journey and build strong foundations in:
 
-### 1. Learn
+- Python
+- Data Science
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
 
-Understand the concept and its purpose.
+My approach is simple:
 
-### 2. Practice
-
-Write code and solve small problems.
-
-### 3. Build
-
-Apply the concept to a mini project.
-
-### 4. Review
-
-Take quizzes and revise important concepts.
-
-### 5. Document
-
-Upload my work to GitHub and maintain a record of my progress.
-
-### 6. Improve
-
-Return to previous concepts and improve my implementation.
-
-My goal is not to rush through topics.
-
-> **Consistency is more important than speed.**
+> **Learn → Practice → Build → Document → Improve**
 
 ---
 
@@ -104,10 +76,9 @@ My goal is not to rush through topics.
 - Visual Studio Code
 - Git
 - GitHub
-- pip
 - Virtual Environments (`venv`)
-- Jupyter Notebook
-- Google Colab
+- pip
+- JSON
 
 ### Future Technologies
 
@@ -115,12 +86,11 @@ My goal is not to rush through topics.
 - TensorFlow
 - PyTorch
 - OpenCV
-- NLP Libraries
 - Hugging Face
 - LangChain
-- Vector Databases
-- Generative AI
-- Large Language Models
+- Docker
+- FastAPI
+- Streamlit
 
 ---
 
@@ -264,10 +234,10 @@ My goal is not to rush through topics.
 - `import module`
 - `from module import function`
 - Module Aliases
-- Using `math`
-- Using `random`
-- Using `datetime`
-- Using `string`
+- `math`
+- `random`
+- `datetime`
+- `string`
 - Creating Custom Modules
 - Random Password Generator Mini Project
 
@@ -287,12 +257,25 @@ My goal is not to rush through topics.
 
 ## ✅ Day 12 - Comprehensions
 
-- List Comprehensions
-- Dictionary Comprehensions
-- Set Comprehensions
+### List Comprehensions
+
+- Basic List Comprehensions
 - Conditional Comprehensions
 - Nested Comprehensions
-- Data Processing Mini Projects
+
+### Dictionary Comprehensions
+
+- Creating Dictionaries
+- Filtering Dictionary Data
+
+### Set Comprehensions
+
+- Creating Sets
+- Removing Duplicates
+
+### Mini Project
+
+- Student Data Filter
 
 ---
 
@@ -467,11 +450,6 @@ My goal is not to rush through topics.
 - Dropping Columns using `drop()`
 - Dropping Rows using `index`
 
-### DataFrame Modification
-
-- Editing DataFrames
-- Saving Updated Data
-
 ### Mini Project
 
 - Student Grade Management System
@@ -556,7 +534,7 @@ My goal is not to rush through topics.
 ### Pivot Tables
 
 - Creating Pivot Tables
-- Using `pivot_table()`
+- `pivot_table()`
 - `mean()`
 - `sum()`
 - `max()`
@@ -695,9 +673,7 @@ My goal is not to rush through topics.
 - Multiple Lines on One Graph
 - Group Labels (`label=`)
 - Legends (`plt.legend()`)
-- Comparing Multiple Trends
-- Visualizing Trends and Changes Across Tests
-- Understanding Trends in Ordered Data
+- Visualizing Trends and Changes
 
 ### Mini Project
 
@@ -710,23 +686,22 @@ My goal is not to rush through topics.
 
 ### Topics Covered
 
-- Creating Multiple Lines
-- Comparing Multiple Groups
+- Customizing Line Appearance
 - Line Colors
 - Line Width
 - Line Styles
 - Markers
-- Grid Lines
+- Marker Size
+- Multiple Lines
 - Labels
 - Legends
-- Comparing Trends
-- Visualizing Performance Changes
-- Comparing Multiple Subjects
+- Grid Customization
+- Comparing Multiple Trends
+- Improving Graph Readability
 
 ### Mini Project
 
-- Student Performance Trend
-- CS vs AI Performance Comparison
+- Multi-Line Student Performance Comparison
 
 ---
 
@@ -735,19 +710,15 @@ My goal is not to rush through topics.
 ### Topics Covered
 
 - Introduction to Seaborn
-- Seaborn vs Matplotlib
 - Installing Seaborn
 - Importing Seaborn
-- Seaborn Alias (`sns`)
-- Creating Basic Seaborn Line Plots
+- Seaborn with Pandas DataFrames
 - `sns.lineplot()`
 - `data=`
 - `x=`
 - `y=`
-- Working with Pandas DataFrames
 - Seaborn Themes
-- `sns.set_theme()`
-- Combining Seaborn with Matplotlib
+- Visualization Styling
 - Statistical Data Visualization
 
 ### Mini Project
@@ -761,26 +732,19 @@ My goal is not to rush through topics.
 ### Topics Covered
 
 - Introduction to Seaborn Bar Plots
-- Creating Bar Plots (`sns.barplot()`)
-- Bar Plot Categories
-- `data=`
+- `sns.barplot()`
+- DataFrames with Seaborn
 - `x=`
 - `y=`
-- `hue=`
-- Grouped Bar Plots
-- Working with Pandas DataFrames
-- Comparing Numerical Values Across Categories
-- Visualizing Grouped Data
-- Combining Seaborn with Matplotlib
-- Graph Titles
-- X-axis Labels
-- Y-axis Labels
+- `data=`
+- Categories and Numerical Values
+- Comparing Categories
+- Bar Plot Styling
+- Seaborn Themes
 
 ### Mini Project
 
-- Student Performance by Subject
-- Subject-wise Marks Comparison
-- Grouped Student Performance Visualization
+- Student Subject Performance Analysis
 
 ---
 
@@ -789,374 +753,189 @@ My goal is not to rush through topics.
 ### Topics Covered
 
 - Introduction to Box Plots
-- Creating Box Plots (`sns.boxplot()`)
-- `data=`
-- `x=`
-- `y=`
-- `hue=`
+- `sns.boxplot()`
 - Median
-- First Quartile (Q1)
-- Third Quartile (Q3)
+- Quartiles
 - Interquartile Range (IQR)
 - Whiskers
-- Possible Outliers
-- Comparing Numerical Distributions
-- Working with Pandas DataFrames
-- Grouped Box Plots
-- Combining Seaborn with Matplotlib
+- Outliers
+- `x=`
+- `y=`
+- `data=`
+- Comparing Distributions
+- Understanding Data Spread
 
 ### Mini Project
 
-- Student Performance Distribution Analyzer
+- Student Marks Distribution Analysis
+
+### Quiz Result
+
+- Score: 10/10
+- Percentage: 100%
+
+---
+
+## ✅ Day 38 - Seaborn Histograms & Distribution Plots
+
+### Topics Covered
+
+- Introduction to Histograms
+- Creating Histograms (`sns.histplot()`)
+- Histogram Bins (`bins=`)
+- KDE (Kernel Density Estimate)
+- `kde=True`
+- `data=`
+- `x=`
+- `hue=`
+- Numerical Data Distribution
+- Comparing Distributions
+- Grouped Histograms
+- Seaborn and Matplotlib Integration
+
+### Mini Project
+
+- Student Marks Distribution Analyzer
 - Student Marks Distribution by Subject
-- Comparing Subject-wise Performance
+
+### Quiz Result
+
+- Score: 9/10
+- Percentage: 90%
 
 ---
 
-# 📈 Current Progress
+## ✅ Day 39 - Seaborn Heatmaps
 
-### Completed
+### Topics Covered
 
-- Python Fundamentals
-- Object-Oriented Programming
-- File Handling
-- Exception Handling
-- Modules & Packages
-- Lambda Functions
-- Comprehensions
-- NumPy
-- Pandas
-- Data Cleaning
-- Data Analysis
-- DataFrame Operations
-- GroupBy
-- Merging & Joining
-- Pivot Tables
-- Crosstab
-- Matplotlib
-- Seaborn Introduction
-- Seaborn Bar Plots
-- Seaborn Box Plots
+- Introduction to Heatmaps
+- Creating Heatmaps (`sns.heatmap()`)
+- Correlation Matrices
+- Calculating Correlation (`df.corr()`)
+- Correlation Coefficients
+- Positive Correlation
+- Negative Correlation
+- `annot=True`
+- Color Maps (`cmap=`)
+- Number Formatting (`fmt=".2f"`)
+- Cell Borders (`linewidths=`)
+- Visualizing Relationships Between Numerical Variables
+- Correlation Analysis for EDA
+- Feature Relationship Analysis
 
-### Current Stage
+### Mini Project
 
-**Data Visualization & Exploratory Data Analysis (EDA)** 📊
+- Student Performance Correlation Analyzer
+- Study Hours vs Marks Analysis
+- Attendance vs Marks Analysis
+- Assignment Performance vs Marks Analysis
+- Student Performance Correlation Heatmap
 
----
+### Quiz Result
 
-# 🗺️ Future Learning Roadmap
-
-The journey will continue progressively from Data Visualization toward Machine Learning and advanced AI.
-
-## 🔹 Phase 1 - Python Fundamentals
-
-**Days 1–12**
-
-- Python Basics
-- Control Flow
-- Functions
-- Data Structures
-- OOP
-- File Handling
-- Exception Handling
-- Modules
-- Lambda Functions
-- Comprehensions
-
-**Status: ✅ Completed**
+- Score: 10/10
+- Percentage: 100%
 
 ---
 
-## 🔹 Phase 2 - NumPy & Pandas
+## ✅ Day 40 - Seaborn Pair Plots
 
-**Days 13–27**
+### Topics Covered
 
-- NumPy
-- Arrays
-- Array Operations
-- Broadcasting
-- Pandas
-- Series
-- DataFrames
-- Filtering
-- Cleaning
-- Sorting
-- GroupBy
-- Merging
-- Pivot Tables
-- Crosstab
+- Introduction to Pair Plots
+- Creating Pair Plots (`sns.pairplot()`)
+- Pairwise Relationships
+- Scatter Plots in Pair Plots
+- Variable Distributions
+- `hue=`
+- `diag_kind="hist"`
+- `diag_kind="kde"`
+- Selecting Specific Columns
+- Comparing Multiple Numerical Variables
+- Identifying Patterns and Relationships
+- Pair Plots for Exploratory Data Analysis (EDA)
 
-**Status: ✅ Completed**
+### Mini Project
 
----
+- Student Performance Pair Analysis
+- Study Hours vs Marks
+- Attendance vs Marks
+- Assignments vs Marks
+- Pairwise Feature Analysis
 
-## 🔹 Phase 3 - Data Visualization & EDA
+### Quiz Result
 
-**Days 28–40**
-
-- Matplotlib
-- Line Charts
-- Bar Charts
-- Pie Charts
-- Histograms
-- Scatter Plots
-- Seaborn
-- Box Plots
-- Distribution Plots
-- Heatmaps
-- Pair Plots
-- Statistical Visualization
-- Exploratory Data Analysis
-
-**Status: 🚀 In Progress**
+- Score: 10/10
+- Percentage: 100%
 
 ---
 
-## 🔹 Phase 4 - Statistics for Machine Learning
+# 📊 Learning Statistics
 
-**Target: Days 41–50**
-
-Topics planned:
-
-- Mean
-- Median
-- Mode
-- Variance
-- Standard Deviation
-- Percentiles
-- Quartiles
-- IQR
-- Probability Basics
-- Probability Distributions
-- Normal Distribution
-- Correlation
-- Covariance
-- Sampling
-- Statistical Concepts for ML
-
-**Status: ⏳ Upcoming**
+| Phase | Days | Status |
+|---|---:|---|
+| Python Fundamentals | 1–12 | ✅ Completed |
+| NumPy | 13–15 | ✅ Completed |
+| Pandas & Data Analysis | 16–27 | ✅ Completed |
+| Matplotlib | 28–34 | ✅ Completed |
+| Seaborn & EDA | 35–40 | 🚀 In Progress |
+| Statistics | 41–50 | 🔜 Upcoming |
+| Machine Learning | 51–75 | 🔜 Upcoming |
+| Advanced Machine Learning | 76–100 | 🔜 Upcoming |
+| Deep Learning | 101–125 | 🔜 Upcoming |
+| Computer Vision | 126–145 | 🔜 Upcoming |
+| NLP | 146–165 | 🔜 Upcoming |
+| Generative AI & LLMs | 166–190 | 🔜 Upcoming |
+| MLOps & Deployment | 191–210 | 🔜 Upcoming |
+| Final AI/ML Projects | 211+ | 🔜 Upcoming |
 
 ---
 
-## 🔹 Phase 5 - Machine Learning Fundamentals
-
-**Target: Days 51–70**
-
-Topics planned:
-
-- Introduction to Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Training Data
-- Testing Data
-- Validation Data
-- Features
-- Labels
-- Train/Test Split
-- Data Preprocessing
-- Feature Scaling
-- Encoding Categorical Data
-- Linear Regression
-- Multiple Linear Regression
-- Logistic Regression
-- K-Nearest Neighbors
-- Decision Trees
-- Random Forest
-- Support Vector Machines
-
-**Status: ⏳ Upcoming**
-
----
-
-## 🔹 Phase 6 - Machine Learning Model Evaluation
-
-**Target: Days 71–80**
-
-Topics planned:
-
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
-- ROC Curve
-- AUC
-- Mean Absolute Error
-- Mean Squared Error
-- Root Mean Squared Error
-- R² Score
-- Cross Validation
-- Hyperparameter Tuning
-- Grid Search
-- Random Search
-
-**Status: ⏳ Upcoming**
-
----
-
-## 🔹 Phase 7 - Advanced Machine Learning
-
-**Target: Days 81–100**
-
-Topics planned:
-
-- Ensemble Learning
-- Bagging
-- Boosting
-- Gradient Boosting
-- XGBoost
-- Feature Selection
-- Feature Engineering
-- Dimensionality Reduction
-- PCA
-- Clustering
-- K-Means
-- Hierarchical Clustering
-- DBSCAN
-- Anomaly Detection
-
-**Status: ⏳ Upcoming**
-
----
-
-## 🔹 Phase 8 - Deep Learning
-
-**Target: Days 101–125**
-
-Topics planned:
-
-- Neural Networks
-- Perceptrons
-- Activation Functions
-- Forward Propagation
-- Backpropagation
-- Loss Functions
-- Optimizers
-- Gradient Descent
-- TensorFlow
-- Keras
-- PyTorch
-- Artificial Neural Networks
-- CNNs
-- RNNs
-- LSTMs
-
-**Status: ⏳ Upcoming**
-
----
-
-## 🔹 Phase 9 - Computer Vision
-
-**Target: Days 126–145**
-
-Topics planned:
-
-- OpenCV
-- Image Processing
-- Image Classification
-- Image Augmentation
-- Object Detection
-- YOLO
-- Face Detection
-- Image Segmentation
-- CNN-based Computer Vision
-- Real-time Computer Vision
-
-**Status: ⏳ Upcoming**
-
----
-
-## 🔹 Phase 10 - Natural Language Processing
-
-**Target: Days 146–165**
-
-Topics planned:
-
-- NLP Fundamentals
-- Text Cleaning
-- Tokenization
-- Stop Words
-- Stemming
-- Lemmatization
-- Bag of Words
-- TF-IDF
-- Word Embeddings
-- Sentiment Analysis
-- Text Classification
-- Transformers
-
-**Status: ⏳ Upcoming**
-
----
-
-## 🔹 Phase 11 - Generative AI & LLMs
-
-**Target: Days 166–190**
-
-Topics planned:
-
-- Generative AI
-- Large Language Models
-- Transformers
-- Prompt Engineering
-- API Integration
-- Embeddings
-- Vector Databases
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- AI Agents
-- Tool Calling
-- Multi-Agent Systems
-- LLM Applications
-
-**Status: ⏳ Upcoming**
-
----
-
-## 🔹 Phase 12 - MLOps & Deployment
-
-**Target: Days 191–210**
-
-Topics planned:
-
-- Model Saving
-- Model Loading
-- Flask
-- FastAPI
-- REST APIs
-- Docker
-- GitHub Actions
-- ML Pipelines
-- Model Deployment
-- Cloud Deployment
-- Monitoring
-- Experiment Tracking
-
-**Status: ⏳ Upcoming**
-
----
-
-# 🚀 Final Goal
-
-The long-term goal of this journey is to become capable of taking an AI/ML project from:
+# 📂 Repository Structure
 
 ```text
-Problem
-   ↓
-Data Collection
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-Model Training
-   ↓
-Model Evaluation
-   ↓
-Model Improvement
-   ↓
-Deployment
-   ↓
-Production AI Application
+ai-ml-journey/
+│
+├── Day-01/
+├── Day-02/
+├── Day-03/
+├── Day-04/
+├── Day-05/
+├── Day-06/
+├── Day-07/
+├── Day-08/
+├── Day-09/
+├── Day-10/
+├── Day-11/
+├── Day-12/
+├── Day-13/
+├── Day-14/
+├── Day-15/
+├── Day-16/
+├── Day-17/
+├── Day-18/
+├── Day-19/
+├── Day-20/
+├── Day-21/
+├── Day-22/
+├── Day-23/
+├── Day-24/
+├── Day-25/
+├── Day-26/
+├── Day-27/
+├── Day-28/
+├── Day-29/
+├── Day-30/
+├── Day-31/
+├── Day-32/
+├── Day-33/
+├── Day-34/
+├── Day-35/
+├── Day-36/
+├── Day-37/
+├── Day-38/
+├── Day-39/
+├── Day-40/
+│
+└── README.md
